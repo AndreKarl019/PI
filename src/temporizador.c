@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<time.h>
-#include"../include/medicao_tempo.h"
+#include"../include/temporizador.h"
 
 float iniciar_timer(){
     clock_t tempo_inicial = clock();
@@ -13,11 +13,3 @@ float finalizar_timer(float tempo_inicial){
     
     return duracao;
 }
-
-/*float media(float tempo_final, float tempo_final){
-    clock_t tempo_incial = clock();
-
-    clock_t tempo_final = clock();
-    float duracao = (tempo_final - tempo_inicial);
-
-}*/
