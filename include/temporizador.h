@@ -1,5 +1,5 @@
-#ifndef MEDICAOTEMPO_H
-#define MEDICAOTEMPO_H
+#ifndef TEMPORIZADOR_H
+#define TEMPORIZADOR_H
 
 #include<stdio.h>
 #include<time.h>
