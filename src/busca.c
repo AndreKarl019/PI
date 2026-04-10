@@ -18,17 +18,23 @@ int *montar_vetores(Produto *vetor){
     return ids;
 }
 
-void Busca(Produto *vetor, int *id, int linhas){   
+void Busca(Produto *vetor, int *id, int linhas, FILE *resultado){   
     
     SetConsoleOutputCP(CP_UTF8);  // para o console imprimir os nomes corretamente remover depois 
+
+
 
     for(int i = 0; i < 2000; i++){
         for(int j = 0; j < linhas; j++){
             if( (vetor + j)->id == id[i]){
-                    printf("O id: %i esta na posição %i\n", *(id+i), j+2);  //printf apenas para utilizar com o teste remover depois
-                //adicionar aqui a função de salvamento de resultado
+                 //printf("O id: %i esta na posição %i\n", *(id+i), j+2);  //printf apenas para utilizar com o teste remover depois
+                    fprintf(resultado, " o ID: %i está na posição: %i\n", *(id+i), j+2);
+                *(id+i) = 0;
                 break;
             } 
+        }
+        if(*(id+i)!=0 ){
+            fprintf(resultado, "O ID %i não foi achado.\n", *(id+i));
         }
     }
 }

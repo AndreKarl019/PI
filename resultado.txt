@@ -1,0 +1,2000 @@
+ o ID: 83442 está na posição: 2
+ o ID: 74043 está na posição: 68
+ o ID: 92013 está na posição: 134
+ o ID: 26248 está na posição: 200
+ o ID: 32433 está na posição: 266
+ o ID: 49274 está na posição: 332
+ o ID: 52370 está na posição: 398
+ o ID: 87269 está na posição: 464
+ o ID: 74661 está na posição: 530
+ o ID: 20387 está na posição: 596
+ o ID: 34701 está na posição: 662
+ o ID: 90440 está na posição: 728
+ o ID: 8377 está na posição: 794
+ o ID: 31895 está na posição: 860
+ o ID: 87801 está na posição: 926
+ o ID: 44098 está na posição: 992
+ o ID: 17294 está na posição: 1058
+ o ID: 73371 está na posição: 1124
+ o ID: 14376 está na posição: 1190
+ o ID: 51760 está na posição: 1256
+ o ID: 11154 está na posição: 1322
+ o ID: 47088 está na posição: 1388
+ o ID: 86075 está na posição: 1454
+ o ID: 81639 está na posição: 1520
+ o ID: 91674 está na posição: 1586
+ o ID: 20191 está na posição: 1652
+ o ID: 40410 está na posição: 1718
+ o ID: 91325 está na posição: 1784
+ o ID: 99505 está na posição: 1850
+ o ID: 54134 está na posição: 1916
+ o ID: 4374 está na posição: 1982
+ o ID: 69985 está na posição: 2048
+ o ID: 59947 está na posição: 2114
+ o ID: 20266 está na posição: 2180
+ o ID: 28938 está na posição: 2246
+ o ID: 96690 está na posição: 2312
+ o ID: 71491 está na posição: 2378
+ o ID: 74171 está na posição: 2444
+ o ID: 34830 está na posição: 2510
+ o ID: 64565 está na posição: 2576
+ o ID: 27133 está na posição: 2642
+ o ID: 55581 está na posição: 2708
+ o ID: 97785 está na posição: 2774
+ o ID: 88621 está na posição: 2840
+ o ID: 28983 está na posição: 2906
+ o ID: 45363 está na posição: 2972
+ o ID: 15516 está na posição: 3038
+ o ID: 29194 está na posição: 3104
+ o ID: 8178 está na posição: 3170
+ o ID: 69238 está na posição: 3236
+ o ID: 3859 está na posição: 3302
+ o ID: 63432 está na posição: 3368
+ o ID: 46163 está na posição: 3434
+ o ID: 14260 está na posição: 3500
+ o ID: 22519 está na posição: 3566
+ o ID: 14559 está na posição: 3632
+ o ID: 14082 está na posição: 3698
+ o ID: 16014 está na posição: 3764
+ o ID: 26424 está na posição: 3830
+ o ID: 48345 está na posição: 3896
+ o ID: 28166 está na posição: 3962
+ o ID: 85817 está na posição: 4028
+ o ID: 38728 está na posição: 4094
+ o ID: 33415 está na posição: 4160
+ o ID: 73580 está na posição: 4226
+ o ID: 7385 está na posição: 4292
+ o ID: 66757 está na posição: 4358
+ o ID: 1648 está na posição: 4424
+ o ID: 34061 está na posição: 4490
+ o ID: 13206 está na posição: 4556
+ o ID: 21729 está na posição: 4622
+ o ID: 27442 está na posição: 4688
+ o ID: 66514 está na posição: 4754
+ o ID: 88582 está na posição: 4820
+ o ID: 63487 está na posição: 4886
+ o ID: 67744 está na posição: 4952
+ o ID: 28230 está na posição: 5018
+ o ID: 74389 está na posição: 5084
+ o ID: 35532 está na posição: 5150
+ o ID: 83186 está na posição: 5216
+ o ID: 25745 está na posição: 5282
+ o ID: 55324 está na posição: 5348
+ o ID: 99435 está na posição: 5414
+ o ID: 16220 está na posição: 5480
+ o ID: 12784 está na posição: 5546
+ o ID: 84783 está na posição: 5612
+ o ID: 81908 está na posição: 5678
+ o ID: 68606 está na posição: 5744
+ o ID: 84211 está na posição: 5810
+ o ID: 4 está na posição: 5876
+ o ID: 37295 está na posição: 5942
+ o ID: 94161 está na posição: 6008
+ o ID: 49028 está na posição: 6074
+ o ID: 34929 está na posição: 6140
+ o ID: 81080 está na posição: 6206
+ o ID: 27527 está na posição: 6272
+ o ID: 2592 está na posição: 6338
+ o ID: 92281 está na posição: 6404
+ o ID: 25146 está na posição: 6470
+ o ID: 43067 está na posição: 6536
+ o ID: 12146 está na posição: 6602
+ o ID: 46582 está na posição: 6668
+ o ID: 36391 está na posição: 6734
+ o ID: 92853 está na posição: 6800
+ o ID: 72826 está na posição: 6866
+ o ID: 18355 está na posição: 6932
+ o ID: 45037 está na posição: 6998
+ o ID: 39293 está na posição: 7064
+ o ID: 12824 está na posição: 7130
+ o ID: 79532 está na posição: 7196
+ o ID: 730 está na posição: 7262
+ o ID: 77119 está na posição: 7328
+ o ID: 12122 está na posição: 7394
+ o ID: 60053 está na posição: 7460
+ o ID: 27618 está na posição: 7526
+ o ID: 97845 está na posição: 7592
+ o ID: 82869 está na posição: 7658
+ o ID: 57453 está na posição: 7724
+ o ID: 20141 está na posição: 7790
+ o ID: 44082 está na posição: 7856
+ o ID: 99557 está na posição: 7922
+ o ID: 6797 está na posição: 7988
+ o ID: 27926 está na posição: 8054
+ o ID: 13592 está na posição: 8120
+ o ID: 43199 está na posição: 8186
+ o ID: 32187 está na posição: 8252
+ o ID: 7800 está na posição: 8318
+ o ID: 27616 está na posição: 8384
+ o ID: 44042 está na posição: 8450
+ o ID: 51046 está na posição: 8516
+ o ID: 93404 está na posição: 8582
+ o ID: 74417 está na posição: 8648
+ o ID: 12317 está na posição: 8714
+ o ID: 72480 está na posição: 8780
+ o ID: 75666 está na posição: 8846
+ o ID: 87817 está na posição: 8912
+ o ID: 58284 está na posição: 8978
+ o ID: 68566 está na posição: 9044
+ o ID: 25202 está na posição: 9110
+ o ID: 18950 está na posição: 9176
+ o ID: 22754 está na posição: 9242
+ o ID: 99038 está na posição: 9308
+ o ID: 96562 está na posição: 9374
+ o ID: 90773 está na posição: 9440
+ o ID: 36237 está na posição: 9506
+ o ID: 28483 está na posição: 9572
+ o ID: 85471 está na posição: 9638
+ o ID: 45943 está na posição: 9704
+ o ID: 20227 está na posição: 9770
+ o ID: 6069 está na posição: 9836
+ o ID: 9777 está na posição: 9902
+ o ID: 82132 está na posição: 9968
+ o ID: 23326 está na posição: 10034
+ o ID: 99980 está na posição: 10100
+ o ID: 43212 está na posição: 10166
+ o ID: 24756 está na posição: 10232
+ o ID: 25995 está na posição: 10298
+ o ID: 91316 está na posição: 10364
+ o ID: 49017 está na posição: 10430
+ o ID: 28311 está na posição: 10496
+ o ID: 51154 está na posição: 10562
+ o ID: 5729 está na posição: 10628
+ o ID: 73157 está na posição: 10694
+ o ID: 70273 está na posição: 10760
+ o ID: 82140 está na posição: 10826
+ o ID: 9984 está na posição: 10892
+ o ID: 14068 está na posição: 10958
+ o ID: 70170 está na posição: 11024
+ o ID: 99527 está na posição: 11090
+ o ID: 27785 está na posição: 11156
+ o ID: 61283 está na posição: 11222
+ o ID: 68195 está na posição: 11288
+ o ID: 85986 está na posição: 11354
+ o ID: 68536 está na posição: 11420
+ o ID: 98105 está na posição: 11486
+ o ID: 43203 está na posição: 11552
+ o ID: 63814 está na posição: 11618
+ o ID: 51220 está na posição: 11684
+ o ID: 70751 está na posição: 11750
+ o ID: 27872 está na posição: 11816
+ o ID: 77100 está na posição: 11882
+ o ID: 38229 está na posição: 11948
+ o ID: 6128 está na posição: 12014
+ o ID: 77930 está na posição: 12080
+ o ID: 67370 está na posição: 12146
+ o ID: 56955 está na posição: 12212
+ o ID: 49043 está na posição: 12278
+ o ID: 95043 está na posição: 12344
+ o ID: 52450 está na posição: 12410
+ o ID: 87489 está na posição: 12476
+ o ID: 84630 está na posição: 12542
+ o ID: 72494 está na posição: 12608
+ o ID: 71528 está na posição: 12674
+ o ID: 27978 está na posição: 12740
+ o ID: 77839 está na posição: 12806
+ o ID: 75638 está na posição: 12872
+ o ID: 71856 está na posição: 12938
+ o ID: 15470 está na posição: 13004
+ o ID: 51277 está na posição: 13070
+ o ID: 38028 está na posição: 13136
+ o ID: 74073 está na posição: 13202
+ o ID: 32242 está na posição: 13268
+ o ID: 29368 está na posição: 13334
+ o ID: 9862 está na posição: 13400
+ o ID: 1017 está na posição: 13466
+ o ID: 25000 está na posição: 13532
+ o ID: 13021 está na posição: 13598
+ o ID: 59130 está na posição: 13664
+ o ID: 47102 está na posição: 13730
+ o ID: 3885 está na posição: 13796
+ o ID: 38811 está na posição: 13862
+ o ID: 23673 está na posição: 13928
+ o ID: 79234 está na posição: 13994
+ o ID: 29530 está na posição: 14060
+ o ID: 8191 está na posição: 14126
+ o ID: 35169 está na posição: 14192
+ o ID: 85269 está na posição: 14258
+ o ID: 85155 está na posição: 14324
+ o ID: 36653 está na posição: 14390
+ o ID: 97411 está na posição: 14456
+ o ID: 94627 está na posição: 14522
+ o ID: 68151 está na posição: 14588
+ o ID: 45869 está na posição: 14654
+ o ID: 1724 está na posição: 14720
+ o ID: 91986 está na posição: 14786
+ o ID: 37035 está na posição: 14852
+ o ID: 44780 está na posição: 14918
+ o ID: 72564 está na posição: 14984
+ o ID: 2057 está na posição: 15050
+ o ID: 13557 está na posição: 15116
+ o ID: 48864 está na posição: 15182
+ o ID: 91964 está na posição: 15248
+ o ID: 58361 está na posição: 15314
+ o ID: 14454 está na posição: 15380
+ o ID: 44909 está na posição: 15446
+ o ID: 52464 está na posição: 15512
+ o ID: 37770 está na posição: 15578
+ o ID: 97761 está na posição: 15644
+ o ID: 94855 está na posição: 15710
+ o ID: 40060 está na posição: 15776
+ o ID: 9204 está na posição: 15842
+ o ID: 50375 está na posição: 15908
+ o ID: 87539 está na posição: 15974
+ o ID: 86020 está na posição: 16040
+ o ID: 68615 está na posição: 16106
+ o ID: 20108 está na posição: 16172
+ o ID: 37058 está na posição: 16238
+ o ID: 75441 está na posição: 16304
+ o ID: 83407 está na posição: 16370
+ o ID: 25416 está na posição: 16436
+ o ID: 41468 está na posição: 16502
+ o ID: 43162 está na posição: 16568
+ o ID: 93466 está na posição: 16634
+ o ID: 74887 está na posição: 16700
+ o ID: 55374 está na posição: 16766
+ o ID: 25132 está na posição: 16832
+ o ID: 58926 está na posição: 16898
+ o ID: 67950 está na posição: 16964
+ o ID: 55221 está na posição: 17030
+ o ID: 69721 está na posição: 17096
+ o ID: 725 está na posição: 17162
+ o ID: 8695 está na posição: 17228
+ o ID: 43430 está na posição: 17294
+ o ID: 79652 está na posição: 17360
+ o ID: 26400 está na posição: 17426
+ o ID: 56242 está na posição: 17492
+ o ID: 82981 está na posição: 17558
+ o ID: 50598 está na posição: 17624
+ o ID: 17377 está na posição: 17690
+ o ID: 52919 está na posição: 17756
+ o ID: 33374 está na posição: 17822
+ o ID: 21943 está na posição: 17888
+ o ID: 51757 está na posição: 17954
+ o ID: 40476 está na posição: 18020
+ o ID: 59829 está na posição: 18086
+ o ID: 12271 está na posição: 18152
+ o ID: 70783 está na posição: 18218
+ o ID: 9694 está na posição: 18284
+ o ID: 66550 está na posição: 18350
+ o ID: 30616 está na posição: 18416
+ o ID: 93540 está na posição: 18482
+ o ID: 67604 está na posição: 18548
+ o ID: 46125 está na posição: 18614
+ o ID: 73780 está na posição: 18680
+ o ID: 60431 está na posição: 18746
+ o ID: 81432 está na posição: 18812
+ o ID: 94706 está na posição: 18878
+ o ID: 6674 está na posição: 18944
+ o ID: 89057 está na posição: 19010
+ o ID: 21032 está na posição: 19076
+ o ID: 8391 está na posição: 19142
+ o ID: 4085 está na posição: 19208
+ o ID: 73542 está na posição: 19274
+ o ID: 93475 está na posição: 19340
+ o ID: 74378 está na posição: 19406
+ o ID: 93888 está na posição: 19472
+ o ID: 39132 está na posição: 19538
+ o ID: 75647 está na posição: 19604
+ o ID: 6702 está na posição: 19670
+ o ID: 85359 está na posição: 19736
+ o ID: 90895 está na posição: 19802
+ o ID: 25591 está na posição: 19868
+ o ID: 90722 está na posição: 19934
+ o ID: 66969 está na posição: 20000
+ o ID: 85270 está na posição: 20066
+ o ID: 24636 está na posição: 20132
+ o ID: 65983 está na posição: 20198
+ o ID: 6691 está na posição: 20264
+ o ID: 53556 está na posição: 20330
+ o ID: 97406 está na posição: 20396
+ o ID: 21455 está na posição: 20462
+ o ID: 97856 está na posição: 20528
+ o ID: 17457 está na posição: 20594
+ o ID: 33101 está na posição: 20660
+ o ID: 88971 está na posição: 20726
+ o ID: 51521 está na posição: 20792
+ o ID: 59159 está na posição: 20858
+ o ID: 19437 está na posição: 20924
+ o ID: 95867 está na posição: 20990
+ o ID: 83530 está na posição: 21056
+ o ID: 21233 está na posição: 21122
+ o ID: 98228 está na posição: 21188
+ o ID: 37127 está na posição: 21254
+ o ID: 42411 está na posição: 21320
+ o ID: 5392 está na posição: 21386
+ o ID: 6806 está na posição: 21452
+ o ID: 21132 está na posição: 21518
+ o ID: 20118 está na posição: 21584
+ o ID: 30898 está na posição: 21650
+ o ID: 832 está na posição: 21716
+ o ID: 87395 está na posição: 21782
+ o ID: 20772 está na posição: 21848
+ o ID: 98371 está na posição: 21914
+ o ID: 95090 está na posição: 21980
+ o ID: 76044 está na posição: 22046
+ o ID: 32880 está na posição: 22112
+ o ID: 37421 está na posição: 22178
+ o ID: 82179 está na posição: 22244
+ o ID: 34940 está na posição: 22310
+ o ID: 21564 está na posição: 22376
+ o ID: 31157 está na posição: 22442
+ o ID: 8769 está na posição: 22508
+ o ID: 25417 está na posição: 22574
+ o ID: 743 está na posição: 22640
+ o ID: 34731 está na posição: 22706
+ o ID: 42946 está na posição: 22772
+ o ID: 24462 está na posição: 22838
+ o ID: 72102 está na posição: 22904
+ o ID: 52349 está na posição: 22970
+ o ID: 15538 está na posição: 23036
+ o ID: 22731 está na posição: 23102
+ o ID: 15481 está na posição: 23168
+ o ID: 84955 está na posição: 23234
+ o ID: 24691 está na posição: 23300
+ o ID: 39428 está na posição: 23366
+ o ID: 28067 está na posição: 23432
+ o ID: 70171 está na posição: 23498
+ o ID: 46132 está na posição: 23564
+ o ID: 30193 está na posição: 23630
+ o ID: 89523 está na posição: 23696
+ o ID: 46771 está na posição: 23762
+ o ID: 12875 está na posição: 23828
+ o ID: 40143 está na posição: 23894
+ o ID: 17143 está na posição: 23960
+ o ID: 9600 está na posição: 24026
+ o ID: 27516 está na posição: 24092
+ o ID: 35945 está na posição: 24158
+ o ID: 89887 está na posição: 24224
+ o ID: 83422 está na posição: 24290
+ o ID: 56825 está na posição: 24356
+ o ID: 55734 está na posição: 24422
+ o ID: 14784 está na posição: 24488
+ o ID: 95340 está na posição: 24554
+ o ID: 95907 está na posição: 24620
+ o ID: 22898 está na posição: 24686
+ o ID: 53754 está na posição: 24752
+ o ID: 56423 está na posição: 24818
+ o ID: 40241 está na posição: 24884
+ o ID: 36496 está na posição: 24950
+ o ID: 73152 está na posição: 25016
+ o ID: 32717 está na posição: 25082
+ o ID: 39650 está na posição: 25148
+ o ID: 44148 está na posição: 25214
+ o ID: 86648 está na posição: 25280
+ o ID: 88095 está na posição: 25346
+ o ID: 55062 está na posição: 25412
+ o ID: 61298 está na posição: 25478
+ o ID: 62971 está na posição: 25544
+ o ID: 66999 está na posição: 25610
+ o ID: 13024 está na posição: 25676
+ o ID: 27321 está na posição: 25742
+ o ID: 43934 está na posição: 25808
+ o ID: 19325 está na posição: 25874
+ o ID: 80940 está na posição: 25940
+ o ID: 16249 está na posição: 26006
+ o ID: 20487 está na posição: 26072
+ o ID: 37459 está na posição: 26138
+ o ID: 79226 está na posição: 26204
+ o ID: 32301 está na posição: 26270
+ o ID: 58084 está na posição: 26336
+ o ID: 8337 está na posição: 26402
+ o ID: 93881 está na posição: 26468
+ o ID: 16307 está na posição: 26534
+ o ID: 26768 está na posição: 26600
+ o ID: 81003 está na posição: 26666
+ o ID: 95123 está na posição: 26732
+ o ID: 83228 está na posição: 26798
+ o ID: 91168 está na posição: 26864
+ o ID: 18368 está na posição: 26930
+ o ID: 63534 está na posição: 26996
+ o ID: 64441 está na posição: 27062
+ o ID: 93288 está na posição: 27128
+ o ID: 51533 está na posição: 27194
+ o ID: 47159 está na posição: 27260
+ o ID: 49905 está na posição: 27326
+ o ID: 78698 está na posição: 27392
+ o ID: 86802 está na posição: 27458
+ o ID: 86209 está na posição: 27524
+ o ID: 4551 está na posição: 27590
+ o ID: 25274 está na posição: 27656
+ o ID: 55097 está na posição: 27722
+ o ID: 53677 está na posição: 27788
+ o ID: 95533 está na posição: 27854
+ o ID: 14087 está na posição: 27920
+ o ID: 3411 está na posição: 27986
+ o ID: 54412 está na posição: 28052
+ o ID: 29783 está na posição: 28118
+ o ID: 2978 está na posição: 28184
+ o ID: 57500 está na posição: 28250
+ o ID: 91372 está na posição: 28316
+ o ID: 15754 está na posição: 28382
+ o ID: 53577 está na posição: 28448
+ o ID: 66214 está na posição: 28514
+ o ID: 89314 está na posição: 28580
+ o ID: 31599 está na posição: 28646
+ o ID: 19000 está na posição: 28712
+ o ID: 24621 está na posição: 28778
+ o ID: 97284 está na posição: 28844
+ o ID: 76112 está na posição: 28910
+ o ID: 15573 está na posição: 28976
+ o ID: 49445 está na posição: 29042
+ o ID: 60762 está na posição: 29108
+ o ID: 72442 está na posição: 29174
+ o ID: 55870 está na posição: 29240
+ o ID: 76827 está na posição: 29306
+ o ID: 62942 está na posição: 29372
+ o ID: 17380 está na posição: 29438
+ o ID: 84727 está na posição: 29504
+ o ID: 96636 está na posição: 29570
+ o ID: 18323 está na posição: 29636
+ o ID: 97263 está na posição: 29702
+ o ID: 90717 está na posição: 29768
+ o ID: 14923 está na posição: 29834
+ o ID: 4706 está na posição: 29900
+ o ID: 17886 está na posição: 29966
+ o ID: 56037 está na posição: 30032
+ o ID: 18838 está na posição: 30098
+ o ID: 20490 está na posição: 30164
+ o ID: 38976 está na posição: 30230
+ o ID: 37776 está na posição: 30296
+ o ID: 80489 está na posição: 30362
+ o ID: 88545 está na posição: 30428
+ o ID: 8528 está na posição: 30494
+ o ID: 86205 está na posição: 30560
+ o ID: 52624 está na posição: 30626
+ o ID: 38484 está na posição: 30692
+ o ID: 9516 está na posição: 30758
+ o ID: 58503 está na posição: 30824
+ o ID: 45846 está na posição: 30890
+ o ID: 64780 está na posição: 30956
+ o ID: 60274 está na posição: 31022
+ o ID: 26461 está na posição: 31088
+ o ID: 59298 está na posição: 31154
+ o ID: 72964 está na posição: 31220
+ o ID: 31106 está na posição: 31286
+ o ID: 23428 está na posição: 31352
+ o ID: 73309 está na posição: 31418
+ o ID: 27023 está na posição: 31484
+ o ID: 51851 está na posição: 31550
+ o ID: 26725 está na posição: 31616
+ o ID: 78109 está na posição: 31682
+ o ID: 41656 está na posição: 31748
+ o ID: 71990 está na posição: 31814
+ o ID: 46325 está na posição: 31880
+ o ID: 1883 está na posição: 31946
+ o ID: 64502 está na posição: 32012
+ o ID: 29381 está na posição: 32078
+ o ID: 53200 está na posição: 32144
+ o ID: 52645 está na posição: 32210
+ o ID: 88033 está na posição: 32276
+ o ID: 79719 está na posição: 32342
+ o ID: 19969 está na posição: 32408
+ o ID: 67134 está na posição: 32474
+ o ID: 36979 está na posição: 32540
+ o ID: 21910 está na posição: 32606
+ o ID: 31398 está na posição: 32672
+ o ID: 66396 está na posição: 32738
+ o ID: 57999 está na posição: 32804
+ o ID: 57861 está na posição: 32870
+ o ID: 35708 está na posição: 32936
+ o ID: 79984 está na posição: 33002
+ o ID: 91003 está na posição: 33068
+ o ID: 49844 está na posição: 33134
+ o ID: 22066 está na posição: 33200
+ o ID: 45604 está na posição: 33266
+ o ID: 4639 está na posição: 33332
+ o ID: 96082 está na posição: 33398
+ o ID: 47996 está na posição: 33464
+ o ID: 66174 está na posição: 33530
+ o ID: 72702 está na posição: 33596
+ o ID: 50258 está na posição: 33662
+ o ID: 53712 está na posição: 33728
+ o ID: 55276 está na posição: 33794
+ o ID: 4680 está na posição: 33860
+ o ID: 11972 está na posição: 33926
+ o ID: 16322 está na posição: 33992
+ o ID: 28594 está na posição: 34058
+ o ID: 29761 está na posição: 34124
+ o ID: 71117 está na posição: 34190
+ o ID: 3418 está na posição: 34256
+ o ID: 4962 está na posição: 34322
+ o ID: 49454 está na posição: 34388
+ o ID: 99156 está na posição: 34454
+ o ID: 25490 está na posição: 34520
+ o ID: 68551 está na posição: 34586
+ o ID: 619 está na posição: 34652
+ o ID: 40949 está na posição: 34718
+ o ID: 86361 está na posição: 34784
+ o ID: 79018 está na posição: 34850
+ o ID: 86368 está na posição: 34916
+ o ID: 63125 está na posição: 34982
+ o ID: 24913 está na posição: 35048
+ o ID: 85247 está na posição: 35114
+ o ID: 19042 está na posição: 35180
+ o ID: 36441 está na posição: 35246
+ o ID: 81618 está na posição: 35312
+ o ID: 74441 está na posição: 35378
+ o ID: 8764 está na posição: 35444
+ o ID: 5581 está na posição: 35510
+ o ID: 21447 está na posição: 35576
+ o ID: 40296 está na posição: 35642
+ o ID: 54515 está na posição: 35708
+ o ID: 52151 está na posição: 35774
+ o ID: 17685 está na posição: 35840
+ o ID: 54316 está na posição: 35906
+ o ID: 95636 está na posição: 35972
+ o ID: 41726 está na posição: 36038
+ o ID: 76174 está na posição: 36104
+ o ID: 56610 está na posição: 36170
+ o ID: 75767 está na posição: 36236
+ o ID: 20720 está na posição: 36302
+ o ID: 28231 está na posição: 36368
+ o ID: 97242 está na posição: 36434
+ o ID: 40628 está na posição: 36500
+ o ID: 20555 está na posição: 36566
+ o ID: 73053 está na posição: 36632
+ o ID: 25227 está na posição: 36698
+ o ID: 20456 está na posição: 36764
+ o ID: 86241 está na posição: 36830
+ o ID: 38220 está na posição: 36896
+ o ID: 85001 está na posição: 36962
+ o ID: 14540 está na posição: 37028
+ o ID: 22996 está na posição: 37094
+ o ID: 44896 está na posição: 37160
+ o ID: 58784 está na posição: 37226
+ o ID: 75262 está na posição: 37292
+ o ID: 1945 está na posição: 37358
+ o ID: 31395 está na posição: 37424
+ o ID: 18397 está na posição: 37490
+ o ID: 14129 está na posição: 37556
+ o ID: 51052 está na posição: 37622
+ o ID: 37456 está na posição: 37688
+ o ID: 50602 está na posição: 37754
+ o ID: 37532 está na posição: 37820
+ o ID: 20113 está na posição: 37886
+ o ID: 91040 está na posição: 37952
+ o ID: 25446 está na posição: 38018
+ o ID: 26007 está na posição: 38084
+ o ID: 65761 está na posição: 38150
+ o ID: 67429 está na posição: 38216
+ o ID: 97071 está na posição: 38282
+ o ID: 34086 está na posição: 38348
+ o ID: 78215 está na posição: 38414
+ o ID: 33494 está na posição: 38480
+ o ID: 97584 está na posição: 38546
+ o ID: 33853 está na posição: 38612
+ o ID: 39053 está na posição: 38678
+ o ID: 8540 está na posição: 38744
+ o ID: 69094 está na posição: 38810
+ o ID: 3834 está na posição: 38876
+ o ID: 68780 está na posição: 38942
+ o ID: 26518 está na posição: 39008
+ o ID: 5806 está na posição: 39074
+ o ID: 44468 está na posição: 39140
+ o ID: 20030 está na posição: 39206
+ o ID: 10974 está na posição: 39272
+ o ID: 13520 está na posição: 39338
+ o ID: 9547 está na posição: 39404
+ o ID: 97515 está na posição: 39470
+ o ID: 23717 está na posição: 39536
+ o ID: 49754 está na posição: 39602
+ o ID: 84558 está na posição: 39668
+ o ID: 35745 está na posição: 39734
+ o ID: 67691 está na posição: 39800
+ o ID: 50597 está na posição: 39866
+ o ID: 92963 está na posição: 39932
+ o ID: 10644 está na posição: 39998
+ o ID: 90313 está na posição: 40064
+ o ID: 96745 está na posição: 40130
+ o ID: 70811 está na posição: 40196
+ o ID: 16994 está na posição: 40262
+ o ID: 11622 está na posição: 40328
+ o ID: 38412 está na posição: 40394
+ o ID: 72282 está na posição: 40460
+ o ID: 76501 está na posição: 40526
+ o ID: 19019 está na posição: 40592
+ o ID: 34382 está na posição: 40658
+ o ID: 69489 está na posição: 40724
+ o ID: 69699 está na posição: 40790
+ o ID: 56753 está na posição: 40856
+ o ID: 82355 está na posição: 40922
+ o ID: 72201 está na posição: 40988
+ o ID: 29158 está na posição: 41054
+ o ID: 81249 está na posição: 41120
+ o ID: 93746 está na posição: 41186
+ o ID: 71969 está na posição: 41252
+ o ID: 63887 está na posição: 41318
+ o ID: 30913 está na posição: 41384
+ o ID: 24761 está na posição: 41450
+ o ID: 91662 está na posição: 41516
+ o ID: 13036 está na posição: 41582
+ o ID: 99967 está na posição: 41648
+ o ID: 27025 está na posição: 41714
+ o ID: 4271 está na posição: 41780
+ o ID: 59381 está na posição: 41846
+ o ID: 3421 está na posição: 41912
+ o ID: 79557 está na posição: 41978
+ o ID: 49787 está na posição: 42044
+ o ID: 34553 está na posição: 42110
+ o ID: 47443 está na posição: 42176
+ o ID: 20390 está na posição: 42242
+ o ID: 25198 está na posição: 42308
+ o ID: 57167 está na posição: 42374
+ o ID: 85125 está na posição: 42440
+ o ID: 22206 está na posição: 42506
+ o ID: 46152 está na posição: 42572
+ o ID: 11558 está na posição: 42638
+ o ID: 28086 está na posição: 42704
+ o ID: 3649 está na posição: 42770
+ o ID: 40439 está na posição: 42836
+ o ID: 58716 está na posição: 42902
+ o ID: 60719 está na posição: 42968
+ o ID: 55480 está na posição: 43034
+ o ID: 58939 está na posição: 43100
+ o ID: 65254 está na posição: 43166
+ o ID: 48815 está na posição: 43232
+ o ID: 40754 está na posição: 43298
+ o ID: 38428 está na posição: 43364
+ o ID: 40487 está na posição: 43430
+ o ID: 86223 está na posição: 43496
+ o ID: 7063 está na posição: 43562
+ o ID: 59742 está na posição: 43628
+ o ID: 70371 está na posição: 43694
+ o ID: 1973 está na posição: 43760
+ o ID: 54822 está na posição: 43826
+ o ID: 45717 está na posição: 43892
+ o ID: 75475 está na posição: 43958
+ o ID: 2932 está na posição: 44024
+ o ID: 51590 está na posição: 44090
+ o ID: 62825 está na posição: 44156
+ o ID: 74431 está na posição: 44222
+ o ID: 80643 está na posição: 44288
+ o ID: 54574 está na posição: 44354
+ o ID: 70431 está na posição: 44420
+ o ID: 16360 está na posição: 44486
+ o ID: 13262 está na posição: 44552
+ o ID: 3799 está na posição: 44618
+ o ID: 50160 está na posição: 44684
+ o ID: 60510 está na posição: 44750
+ o ID: 99891 está na posição: 44816
+ o ID: 61013 está na posição: 44882
+ o ID: 60009 está na posição: 44948
+ o ID: 69168 está na posição: 45014
+ o ID: 8847 está na posição: 45080
+ o ID: 37734 está na posição: 45146
+ o ID: 815 está na posição: 45212
+ o ID: 10385 está na posição: 45278
+ o ID: 7785 está na posição: 45344
+ o ID: 97236 está na posição: 45410
+ o ID: 74462 está na posição: 45476
+ o ID: 51338 está na posição: 45542
+ o ID: 98360 está na posição: 45608
+ o ID: 1362 está na posição: 45674
+ o ID: 92100 está na posição: 45740
+ o ID: 96077 está na posição: 45806
+ o ID: 15978 está na posição: 45872
+ o ID: 1653 está na posição: 45938
+ o ID: 56894 está na posição: 46004
+ o ID: 26388 está na posição: 46070
+ o ID: 36492 está na posição: 46136
+ o ID: 83982 está na posição: 46202
+ o ID: 99801 está na posição: 46268
+ o ID: 30824 está na posição: 46334
+ o ID: 70743 está na posição: 46400
+ o ID: 90312 está na posição: 46466
+ o ID: 67898 está na posição: 46532
+ o ID: 15911 está na posição: 46598
+ o ID: 84292 está na posição: 46664
+ o ID: 884 está na posição: 46730
+ o ID: 84724 está na posição: 46796
+ o ID: 56288 está na posição: 46862
+ o ID: 50411 está na posição: 46928
+ o ID: 93760 está na posição: 46994
+ o ID: 79896 está na posição: 47060
+ o ID: 931 está na posição: 47126
+ o ID: 49826 está na posição: 47192
+ o ID: 83227 está na posição: 47258
+ o ID: 267 está na posição: 47324
+ o ID: 38764 está na posição: 47390
+ o ID: 83961 está na posição: 47456
+ o ID: 10397 está na posição: 47522
+ o ID: 80433 está na posição: 47588
+ o ID: 75719 está na posição: 47654
+ o ID: 1950 está na posição: 47720
+ o ID: 62412 está na posição: 47786
+ o ID: 54522 está na posição: 47852
+ o ID: 77550 está na posição: 47918
+ o ID: 15302 está na posição: 47984
+ o ID: 90147 está na posição: 48050
+ o ID: 55229 está na posição: 48116
+ o ID: 13983 está na posição: 48182
+ o ID: 14619 está na posição: 48248
+ o ID: 42154 está na posição: 48314
+ o ID: 45334 está na posição: 48380
+ o ID: 81691 está na posição: 48446
+ o ID: 28366 está na posição: 48512
+ o ID: 93058 está na posição: 48578
+ o ID: 67970 está na posição: 48644
+ o ID: 123 está na posição: 48710
+ o ID: 21807 está na posição: 48776
+ o ID: 76794 está na posição: 48842
+ o ID: 19909 está na posição: 48908
+ o ID: 38546 está na posição: 48974
+ o ID: 78794 está na posição: 49040
+ o ID: 82088 está na posição: 49106
+ o ID: 29204 está na posição: 49172
+ o ID: 89972 está na posição: 49238
+ o ID: 32700 está na posição: 49304
+ o ID: 68521 está na posição: 49370
+ o ID: 97916 está na posição: 49436
+ o ID: 41637 está na posição: 49502
+ o ID: 21530 está na posição: 49568
+ o ID: 58572 está na posição: 49634
+ o ID: 7328 está na posição: 49700
+ o ID: 25303 está na posição: 49766
+ o ID: 32330 está na posição: 49832
+ o ID: 37839 está na posição: 49898
+ o ID: 35348 está na posição: 49964
+ o ID: 94884 está na posição: 50030
+ o ID: 10427 está na posição: 50096
+ o ID: 38033 está na posição: 50162
+ o ID: 80482 está na posição: 50228
+ o ID: 88920 está na posição: 50294
+ o ID: 14185 está na posição: 50360
+ o ID: 81465 está na posição: 50426
+ o ID: 57607 está na posição: 50492
+ o ID: 5642 está na posição: 50558
+ o ID: 29728 está na posição: 50624
+ o ID: 13703 está na posição: 50690
+ o ID: 24495 está na posição: 50756
+ o ID: 37504 está na posição: 50822
+ o ID: 77107 está na posição: 50888
+ o ID: 80752 está na posição: 50954
+ o ID: 91063 está na posição: 51020
+ o ID: 17636 está na posição: 51086
+ o ID: 81590 está na posição: 51152
+ o ID: 40226 está na posição: 51218
+ o ID: 22120 está na posição: 51284
+ o ID: 6310 está na posição: 51350
+ o ID: 50299 está na posição: 51416
+ o ID: 10860 está na posição: 51482
+ o ID: 66868 está na posição: 51548
+ o ID: 47184 está na posição: 51614
+ o ID: 40592 está na posição: 51680
+ o ID: 68903 está na posição: 51746
+ o ID: 29079 está na posição: 51812
+ o ID: 48054 está na posição: 51878
+ o ID: 59645 está na posição: 51944
+ o ID: 17561 está na posição: 52010
+ o ID: 23255 está na posição: 52076
+ o ID: 60618 está na posição: 52142
+ o ID: 92774 está na posição: 52208
+ o ID: 21915 está na posição: 52274
+ o ID: 36752 está na posição: 52340
+ o ID: 32460 está na posição: 52406
+ o ID: 90850 está na posição: 52472
+ o ID: 42317 está na posição: 52538
+ o ID: 15185 está na posição: 52604
+ o ID: 41814 está na posição: 52670
+ o ID: 30822 está na posição: 52736
+ o ID: 19004 está na posição: 52802
+ o ID: 67602 está na posição: 52868
+ o ID: 33038 está na posição: 52934
+ o ID: 63253 está na posição: 53000
+ o ID: 96148 está na posição: 53066
+ o ID: 69855 está na posição: 53132
+ o ID: 91943 está na posição: 53198
+ o ID: 1853 está na posição: 53264
+ o ID: 81867 está na posição: 53330
+ o ID: 64087 está na posição: 53396
+ o ID: 66694 está na posição: 53462
+ o ID: 79918 está na posição: 53528
+ o ID: 9941 está na posição: 53594
+ o ID: 83983 está na posição: 53660
+ o ID: 67061 está na posição: 53726
+ o ID: 22388 está na posição: 53792
+ o ID: 85543 está na posição: 53858
+ o ID: 98330 está na posição: 53924
+ o ID: 69410 está na posição: 53990
+ o ID: 19688 está na posição: 54056
+ o ID: 89061 está na posição: 54122
+ o ID: 93600 está na posição: 54188
+ o ID: 21292 está na posição: 54254
+ o ID: 16412 está na posição: 54320
+ o ID: 31661 está na posição: 54386
+ o ID: 93501 está na posição: 54452
+ o ID: 60095 está na posição: 54518
+ o ID: 5244 está na posição: 54584
+ o ID: 27042 está na posição: 54650
+ o ID: 27500 está na posição: 54716
+ o ID: 9424 está na posição: 54782
+ o ID: 45484 está na posição: 54848
+ o ID: 41844 está na posição: 54914
+ o ID: 37124 está na posição: 54980
+ o ID: 74548 está na posição: 55046
+ o ID: 30120 está na posição: 55112
+ o ID: 25296 está na posição: 55178
+ o ID: 41810 está na posição: 55244
+ o ID: 17244 está na posição: 55310
+ o ID: 88219 está na posição: 55376
+ o ID: 19383 está na posição: 55442
+ o ID: 81441 está na posição: 55508
+ o ID: 30179 está na posição: 55574
+ o ID: 44428 está na posição: 55640
+ o ID: 81085 está na posição: 55706
+ o ID: 70904 está na posição: 55772
+ o ID: 13885 está na posição: 55838
+ o ID: 80196 está na posição: 55904
+ o ID: 25963 está na posição: 55970
+ o ID: 62325 está na posição: 56036
+ o ID: 29917 está na posição: 56102
+ o ID: 42830 está na posição: 56168
+ o ID: 72568 está na posição: 56234
+ o ID: 32358 está na posição: 56300
+ o ID: 11956 está na posição: 56366
+ o ID: 85126 está na posição: 56432
+ o ID: 11333 está na posição: 56498
+ o ID: 83688 está na posição: 56564
+ o ID: 13781 está na posição: 56630
+ o ID: 42773 está na posição: 56696
+ o ID: 48180 está na posição: 56762
+ o ID: 63753 está na posição: 56828
+ o ID: 53527 está na posição: 56894
+ o ID: 73032 está na posição: 56960
+ o ID: 66932 está na posição: 57026
+ o ID: 28487 está na posição: 57092
+ o ID: 34612 está na posição: 57158
+ o ID: 64701 está na posição: 57224
+ o ID: 72130 está na posição: 57290
+ o ID: 96365 está na posição: 57356
+ o ID: 60642 está na posição: 57422
+ o ID: 34688 está na posição: 57488
+ o ID: 31729 está na posição: 57554
+ o ID: 18701 está na posição: 57620
+ o ID: 64548 está na posição: 57686
+ o ID: 71529 está na posição: 57752
+ o ID: 80066 está na posição: 57818
+ o ID: 25059 está na posição: 57884
+ o ID: 68046 está na posição: 57950
+ o ID: 99029 está na posição: 58016
+ o ID: 53489 está na posição: 58082
+ o ID: 36321 está na posição: 58148
+ o ID: 79499 está na posição: 58214
+ o ID: 44355 está na posição: 58280
+ o ID: 35959 está na posição: 58346
+ o ID: 30496 está na posição: 58412
+ o ID: 42039 está na posição: 58478
+ o ID: 40772 está na posição: 58544
+ o ID: 81271 está na posição: 58610
+ o ID: 75124 está na posição: 58676
+ o ID: 25271 está na posição: 58742
+ o ID: 70939 está na posição: 58808
+ o ID: 30213 está na posição: 58874
+ o ID: 25319 está na posição: 58940
+ o ID: 55588 está na posição: 59006
+ o ID: 38548 está na posição: 59072
+ o ID: 70699 está na posição: 59138
+ o ID: 12598 está na posição: 59204
+ o ID: 77146 está na posição: 59270
+ o ID: 10532 está na posição: 59336
+ o ID: 96782 está na posição: 59402
+ o ID: 67522 está na posição: 59468
+ o ID: 93054 está na posição: 59534
+ o ID: 11818 está na posição: 59600
+ o ID: 84319 está na posição: 59666
+ o ID: 66445 está na posição: 59732
+ o ID: 49455 está na posição: 59798
+ o ID: 51737 está na posição: 59864
+ o ID: 47682 está na posição: 59930
+ o ID: 7890 está na posição: 59996
+ o ID: 61869 está na posição: 60062
+ o ID: 64592 está na posição: 60128
+ o ID: 33592 está na posição: 60194
+ o ID: 81194 está na posição: 60260
+ o ID: 41027 está na posição: 60326
+ o ID: 43225 está na posição: 60392
+ o ID: 46155 está na posição: 60458
+ o ID: 96835 está na posição: 60524
+ o ID: 88874 está na posição: 60590
+ o ID: 60373 está na posição: 60656
+ o ID: 66007 está na posição: 60722
+ o ID: 99230 está na posição: 60788
+ o ID: 61741 está na posição: 60854
+ o ID: 17170 está na posição: 60920
+ o ID: 52067 está na posição: 60986
+ o ID: 3832 está na posição: 61052
+ o ID: 4972 está na posição: 61118
+ o ID: 95659 está na posição: 61184
+ o ID: 49838 está na posição: 61250
+ o ID: 69269 está na posição: 61316
+ o ID: 46957 está na posição: 61382
+ o ID: 26990 está na posição: 61448
+ o ID: 77595 está na posição: 61514
+ o ID: 81973 está na posição: 61580
+ o ID: 44236 está na posição: 61646
+ o ID: 93374 está na posição: 61712
+ o ID: 94007 está na posição: 61778
+ o ID: 74866 está na posição: 61844
+ o ID: 95248 está na posição: 61910
+ o ID: 71999 está na posição: 61976
+ o ID: 6713 está na posição: 62042
+ o ID: 82447 está na posição: 62108
+ o ID: 74859 está na posição: 62174
+ o ID: 42938 está na posição: 62240
+ o ID: 57835 está na posição: 62306
+ o ID: 18027 está na posição: 62372
+ o ID: 68459 está na posição: 62438
+ o ID: 28874 está na posição: 62504
+ o ID: 40885 está na posição: 62570
+ o ID: 32103 está na posição: 62636
+ o ID: 77340 está na posição: 62702
+ o ID: 56921 está na posição: 62768
+ o ID: 62471 está na posição: 62834
+ o ID: 89483 está na posição: 62900
+ o ID: 4151 está na posição: 62966
+ o ID: 28393 está na posição: 63032
+ o ID: 68884 está na posição: 63098
+ o ID: 4363 está na posição: 63164
+ o ID: 72390 está na posição: 63230
+ o ID: 70149 está na posição: 63296
+ o ID: 47180 está na posição: 63362
+ o ID: 83601 está na posição: 63428
+ o ID: 27801 está na posição: 63494
+ o ID: 43753 está na posição: 63560
+ o ID: 9249 está na posição: 63626
+ o ID: 6726 está na posição: 63692
+ o ID: 76686 está na posição: 63758
+ o ID: 49994 está na posição: 63824
+ o ID: 47041 está na posição: 63890
+ o ID: 47645 está na posição: 63956
+ o ID: 55202 está na posição: 64022
+ o ID: 97125 está na posição: 64088
+ o ID: 53027 está na posição: 64154
+ o ID: 23445 está na posição: 64220
+ o ID: 86688 está na posição: 64286
+ o ID: 2335 está na posição: 64352
+ o ID: 64994 está na posição: 64418
+ o ID: 27598 está na posição: 64484
+ o ID: 62082 está na posição: 64550
+ o ID: 65269 está na posição: 64616
+ o ID: 35581 está na posição: 64682
+ o ID: 48763 está na posição: 64748
+ o ID: 9043 está na posição: 64814
+ o ID: 57540 está na posição: 64880
+ o ID: 66782 está na posição: 64946
+ o ID: 78866 está na posição: 65012
+ o ID: 15674 está na posição: 65078
+ o ID: 37735 está na posição: 65144
+ o ID: 69532 está na posição: 65210
+ o ID: 83185 está na posição: 65276
+ o ID: 99815 está na posição: 65342
+ o ID: 26606 está na posição: 65408
+ o ID: 91824 está na posição: 65474
+ o ID: 11673 está na posição: 65540
+ o ID: 38605 está na posição: 65606
+ o ID: 63509 está na posição: 65672
+ o ID: 48554 está na posição: 65738
+ o ID: 24071 está na posição: 65804
+ o ID: 52886 está na posição: 65870
+ o ID: 33903 está na posição: 65936
+ o ID: 46993 está na posição: 66002
+ o ID: 99303 está na posição: 66068
+ o ID: 52723 está na posição: 66134
+ o ID: 54137 está na posição: 66200
+ o ID: 219 está na posição: 66266
+ o ID: 16887 está na posição: 66332
+ o ID: 86670 está na posição: 66398
+ o ID: 8461 está na posição: 66464
+ o ID: 49371 está na posição: 66530
+ o ID: 97706 está na posição: 66596
+ o ID: 78427 está na posição: 66662
+ o ID: 7830 está na posição: 66728
+ o ID: 15316 está na posição: 66794
+ o ID: 93762 está na posição: 66860
+ o ID: 97058 está na posição: 66926
+ o ID: 95411 está na posição: 66992
+ o ID: 97529 está na posição: 67058
+ o ID: 49570 está na posição: 67124
+ o ID: 48267 está na posição: 67190
+ o ID: 11122 está na posição: 67256
+ o ID: 43321 está na posição: 67322
+ o ID: 53517 está na posição: 67388
+ o ID: 77624 está na posição: 67454
+ o ID: 17046 está na posição: 67520
+ o ID: 58595 está na posição: 67586
+ o ID: 531 está na posição: 67652
+ o ID: 28741 está na posição: 67718
+ o ID: 34335 está na posição: 67784
+ o ID: 23643 está na posição: 67850
+ o ID: 86267 está na posição: 67916
+ o ID: 65029 está na posição: 67982
+ o ID: 67792 está na posição: 68048
+ o ID: 79892 está na posição: 68114
+ o ID: 37946 está na posição: 68180
+ o ID: 35293 está na posição: 68246
+ o ID: 76264 está na posição: 68312
+ o ID: 81934 está na posição: 68378
+ o ID: 28348 está na posição: 68444
+ o ID: 43472 está na posição: 68510
+ o ID: 22034 está na posição: 68576
+ o ID: 80729 está na posição: 68642
+ o ID: 37315 está na posição: 68708
+ o ID: 89344 está na posição: 68774
+ o ID: 77917 está na posição: 68840
+ o ID: 51570 está na posição: 68906
+ o ID: 26198 está na posição: 68972
+ o ID: 81158 está na posição: 69038
+ o ID: 805 está na posição: 69104
+ o ID: 92305 está na posição: 69170
+ o ID: 50463 está na posição: 69236
+ o ID: 16316 está na posição: 69302
+ o ID: 12914 está na posição: 69368
+ o ID: 82477 está na posição: 69434
+ o ID: 50201 está na posição: 69500
+ o ID: 61208 está na posição: 69566
+ o ID: 73641 está na posição: 69632
+ o ID: 10019 está na posição: 69698
+ o ID: 22187 está na posição: 69764
+ o ID: 6155 está na posição: 69830
+ o ID: 45924 está na posição: 69896
+ o ID: 5797 está na posição: 69962
+ o ID: 38224 está na posição: 70028
+ o ID: 15267 está na posição: 70094
+ o ID: 4997 está na posição: 70160
+ o ID: 11786 está na posição: 70226
+ o ID: 23884 está na posição: 70292
+ o ID: 40302 está na posição: 70358
+ o ID: 5382 está na posição: 70424
+ o ID: 94553 está na posição: 70490
+ o ID: 41796 está na posição: 70556
+ o ID: 68572 está na posição: 70622
+ o ID: 81421 está na posição: 70688
+ o ID: 73473 está na posição: 70754
+ o ID: 29305 está na posição: 70820
+ o ID: 41974 está na posição: 70886
+ o ID: 44689 está na posição: 70952
+ o ID: 40714 está na posição: 71018
+ o ID: 66060 está na posição: 71084
+ o ID: 109 está na posição: 71150
+ o ID: 12291 está na posição: 71216
+ o ID: 79684 está na posição: 71282
+ o ID: 49228 está na posição: 71348
+ o ID: 39176 está na posição: 71414
+ o ID: 14905 está na posição: 71480
+ o ID: 7745 está na posição: 71546
+ o ID: 26325 está na posição: 71612
+ o ID: 9781 está na posição: 71678
+ o ID: 25928 está na posição: 71744
+ o ID: 71597 está na posição: 71810
+ o ID: 44677 está na posição: 71876
+ o ID: 16562 está na posição: 71942
+ o ID: 1220 está na posição: 72008
+ o ID: 7701 está na posição: 72074
+ o ID: 7898 está na posição: 72140
+ o ID: 9282 está na posição: 72206
+ o ID: 71474 está na posição: 72272
+ o ID: 51245 está na posição: 72338
+ o ID: 69611 está na posição: 72404
+ o ID: 83250 está na posição: 72470
+ o ID: 96284 está na posição: 72536
+ o ID: 2069 está na posição: 72602
+ o ID: 69830 está na posição: 72668
+ o ID: 80741 está na posição: 72734
+ o ID: 73902 está na posição: 72800
+ o ID: 33685 está na posição: 72866
+ o ID: 40936 está na posição: 72932
+ o ID: 81285 está na posição: 72998
+ o ID: 76098 está na posição: 73064
+ o ID: 19692 está na posição: 73130
+ o ID: 20708 está na posição: 73196
+ o ID: 76589 está na posição: 73262
+ o ID: 31360 está na posição: 73328
+ o ID: 12564 está na posição: 73394
+ o ID: 97036 está na posição: 73460
+ o ID: 24843 está na posição: 73526
+ o ID: 41282 está na posição: 73592
+ o ID: 35422 está na posição: 73658
+ o ID: 52313 está na posição: 73724
+ o ID: 64293 está na posição: 73790
+ o ID: 67205 está na posição: 73856
+ o ID: 62240 está na posição: 73922
+ o ID: 16493 está na posição: 73988
+ o ID: 61367 está na posição: 74054
+ o ID: 39952 está na posição: 74120
+ o ID: 33343 está na posição: 74186
+ o ID: 33994 está na posição: 74252
+ o ID: 50061 está na posição: 74318
+ o ID: 80305 está na posição: 74384
+ o ID: 19186 está na posição: 74450
+ o ID: 66735 está na posição: 74516
+ o ID: 90919 está na posição: 74582
+ o ID: 48662 está na posição: 74648
+ o ID: 27488 está na posição: 74714
+ o ID: 2758 está na posição: 74780
+ o ID: 94776 está na posição: 74846
+ o ID: 92210 está na posição: 74912
+ o ID: 99596 está na posição: 74978
+ o ID: 94643 está na posição: 75044
+ o ID: 70488 está na posição: 75110
+ o ID: 76343 está na posição: 75176
+ o ID: 38641 está na posição: 75242
+ o ID: 37798 está na posição: 75308
+ o ID: 54617 está na posição: 75374
+ o ID: 87078 está na posição: 75440
+ o ID: 47476 está na posição: 75506
+ o ID: 54223 está na posição: 75572
+ o ID: 25270 está na posição: 75638
+ o ID: 49421 está na posição: 75704
+ o ID: 77236 está na posição: 75770
+ o ID: 39201 está na posição: 75836
+ o ID: 70116 está na posição: 75902
+ o ID: 59854 está na posição: 75968
+ o ID: 58536 está na posição: 76034
+ o ID: 17699 está na posição: 76100
+ o ID: 38771 está na posição: 76166
+ o ID: 82008 está na posição: 76232
+ o ID: 25176 está na posição: 76298
+ o ID: 5106 está na posição: 76364
+ o ID: 64170 está na posição: 76430
+ o ID: 19189 está na posição: 76496
+ o ID: 58603 está na posição: 76562
+ o ID: 84560 está na posição: 76628
+ o ID: 87397 está na posição: 76694
+ o ID: 47075 está na posição: 76760
+ o ID: 81698 está na posição: 76826
+ o ID: 27220 está na posição: 76892
+ o ID: 72862 está na posição: 76958
+ o ID: 38317 está na posição: 77024
+ o ID: 56926 está na posição: 77090
+ o ID: 20065 está na posição: 77156
+ o ID: 11579 está na posição: 77222
+ o ID: 68130 está na posição: 77288
+ o ID: 74913 está na posição: 77354
+ o ID: 30592 está na posição: 77420
+ o ID: 56910 está na posição: 77486
+ o ID: 8589 está na posição: 77552
+ o ID: 77504 está na posição: 77618
+ o ID: 68795 está na posição: 77684
+ o ID: 46215 está na posição: 77750
+ o ID: 77214 está na posição: 77816
+ o ID: 50622 está na posição: 77882
+ o ID: 81409 está na posição: 77948
+ o ID: 26843 está na posição: 78014
+ o ID: 59627 está na posição: 78080
+ o ID: 95042 está na posição: 78146
+ o ID: 61224 está na posição: 78212
+ o ID: 25828 está na posição: 78278
+ o ID: 10638 está na posição: 78344
+ o ID: 74862 está na posição: 78410
+ o ID: 58005 está na posição: 78476
+ o ID: 92145 está na posição: 78542
+ o ID: 30662 está na posição: 78608
+ o ID: 34110 está na posição: 78674
+ o ID: 60493 está na posição: 78740
+ o ID: 29009 está na posição: 78806
+ o ID: 32498 está na posição: 78872
+ o ID: 54188 está na posição: 78938
+ o ID: 93007 está na posição: 79004
+ o ID: 1402 está na posição: 79070
+ o ID: 10283 está na posição: 79136
+ o ID: 91564 está na posição: 79202
+ o ID: 77491 está na posição: 79268
+ o ID: 29148 está na posição: 79334
+ o ID: 8112 está na posição: 79400
+ o ID: 34958 está na posição: 79466
+ o ID: 19429 está na posição: 79532
+ o ID: 17634 está na posição: 79598
+ o ID: 53111 está na posição: 79664
+ o ID: 47661 está na posição: 79730
+ o ID: 38769 está na posição: 79796
+ o ID: 81607 está na posição: 79862
+ o ID: 47660 está na posição: 79928
+ o ID: 22703 está na posição: 79994
+ o ID: 91770 está na posição: 80060
+ o ID: 21654 está na posição: 80126
+ o ID: 15297 está na posição: 80192
+ o ID: 88934 está na posição: 80258
+ o ID: 68747 está na posição: 80324
+ o ID: 89732 está na posição: 80390
+ o ID: 30608 está na posição: 80456
+ o ID: 95775 está na posição: 80522
+ o ID: 66336 está na posição: 80588
+ o ID: 20621 está na posição: 80654
+ o ID: 80721 está na posição: 80720
+ o ID: 52674 está na posição: 80786
+ o ID: 16987 está na posição: 80852
+ o ID: 16860 está na posição: 80918
+ o ID: 76262 está na posição: 80984
+ o ID: 39452 está na posição: 81050
+ o ID: 60679 está na posição: 81116
+ o ID: 21956 está na posição: 81182
+ o ID: 13880 está na posição: 81248
+ o ID: 86285 está na posição: 81314
+ o ID: 52546 está na posição: 81380
+ o ID: 55668 está na posição: 81446
+ o ID: 11080 está na posição: 81512
+ o ID: 47567 está na posição: 81578
+ o ID: 1016 está na posição: 81644
+ o ID: 56484 está na posição: 81710
+ o ID: 57984 está na posição: 81776
+ o ID: 52823 está na posição: 81842
+ o ID: 1007 está na posição: 81908
+ o ID: 61964 está na posição: 81974
+ o ID: 9634 está na posição: 82040
+ o ID: 15912 está na posição: 82106
+ o ID: 85770 está na posição: 82172
+ o ID: 37417 está na posição: 82238
+ o ID: 15001 está na posição: 82304
+ o ID: 15413 está na posição: 82370
+ o ID: 87626 está na posição: 82436
+ o ID: 43190 está na posição: 82502
+ o ID: 21319 está na posição: 82568
+ o ID: 89117 está na posição: 82634
+ o ID: 16906 está na posição: 82700
+ o ID: 57744 está na posição: 82766
+ o ID: 55999 está na posição: 82832
+ o ID: 34082 está na posição: 82898
+ o ID: 84416 está na posição: 82964
+ o ID: 20631 está na posição: 83030
+ o ID: 85266 está na posição: 83096
+ o ID: 75568 está na posição: 83162
+ o ID: 64123 está na posição: 83228
+ o ID: 58333 está na posição: 83294
+ o ID: 91941 está na posição: 83360
+ o ID: 65082 está na posição: 83426
+ o ID: 28773 está na posição: 83492
+ o ID: 64843 está na posição: 83558
+ o ID: 59308 está na posição: 83624
+ o ID: 10231 está na posição: 83690
+ o ID: 93876 está na posição: 83756
+ o ID: 26395 está na posição: 83822
+ o ID: 81420 está na posição: 83888
+ o ID: 88467 está na posição: 83954
+ o ID: 79002 está na posição: 84020
+ o ID: 97171 está na posição: 84086
+ o ID: 7840 está na posição: 84152
+ o ID: 66852 está na posição: 84218
+ o ID: 89166 está na posição: 84284
+ o ID: 52083 está na posição: 84350
+ o ID: 3626 está na posição: 84416
+ o ID: 85258 está na posição: 84482
+ o ID: 65843 está na posição: 84548
+ o ID: 91926 está na posição: 84614
+ o ID: 76058 está na posição: 84680
+ o ID: 80039 está na posição: 84746
+ o ID: 20535 está na posição: 84812
+ o ID: 91356 está na posição: 84878
+ o ID: 76932 está na posição: 84944
+ o ID: 13304 está na posição: 85010
+ o ID: 76830 está na posição: 85076
+ o ID: 21443 está na posição: 85142
+ o ID: 52449 está na posição: 85208
+ o ID: 66257 está na posição: 85274
+ o ID: 40518 está na posição: 85340
+ o ID: 19761 está na posição: 85406
+ o ID: 35647 está na posição: 85472
+ o ID: 67408 está na posição: 85538
+ o ID: 79202 está na posição: 85604
+ o ID: 89698 está na posição: 85670
+ o ID: 67327 está na posição: 85736
+ o ID: 29836 está na posição: 85802
+ o ID: 50436 está na posição: 85868
+ o ID: 22111 está na posição: 85934
+ o ID: 31428 está na posição: 86000
+ o ID: 85784 está na posição: 86066
+ o ID: 68023 está na posição: 86132
+ o ID: 62195 está na posição: 86198
+ o ID: 45926 está na posição: 86264
+ o ID: 4828 está na posição: 86330
+ o ID: 87375 está na posição: 86396
+ o ID: 5557 está na posição: 86462
+ o ID: 72479 está na posição: 86528
+ o ID: 51575 está na posição: 86594
+ o ID: 40733 está na posição: 86660
+ o ID: 32660 está na posição: 86726
+ o ID: 87904 está na posição: 86792
+ o ID: 34908 está na posição: 86858
+ o ID: 98166 está na posição: 86924
+ o ID: 36754 está na posição: 86990
+ o ID: 85582 está na posição: 87056
+ o ID: 50477 está na posição: 87122
+ o ID: 47840 está na posição: 87188
+ o ID: 19949 está na posição: 87254
+ o ID: 49235 está na posição: 87320
+ o ID: 51839 está na posição: 87386
+ o ID: 71348 está na posição: 87452
+ o ID: 21022 está na posição: 87518
+ o ID: 79611 está na posição: 87584
+ o ID: 56708 está na posição: 87650
+ o ID: 84910 está na posição: 87716
+ o ID: 4565 está na posição: 87782
+ o ID: 51376 está na posição: 87848
+ o ID: 606 está na posição: 87914
+ o ID: 45355 está na posição: 87980
+ o ID: 49775 está na posição: 88046
+ o ID: 21512 está na posição: 88112
+ o ID: 85154 está na posição: 88178
+ o ID: 94695 está na posição: 88244
+ o ID: 53483 está na posição: 88310
+ o ID: 51448 está na posição: 88376
+ o ID: 57183 está na posição: 88442
+ o ID: 87955 está na posição: 88508
+ o ID: 21446 está na posição: 88574
+ o ID: 81253 está na posição: 88640
+ o ID: 29472 está na posição: 88706
+ o ID: 67840 está na posição: 88772
+ o ID: 26443 está na posição: 88838
+ o ID: 5722 está na posição: 88904
+ o ID: 30702 está na posição: 88970
+ o ID: 96470 está na posição: 89036
+ o ID: 39863 está na posição: 89102
+ o ID: 79894 está na posição: 89168
+ o ID: 15512 está na posição: 89234
+ o ID: 50938 está na posição: 89300
+ o ID: 29313 está na posição: 89366
+ o ID: 35160 está na posição: 89432
+ o ID: 48074 está na posição: 89498
+ o ID: 94868 está na posição: 89564
+ o ID: 65101 está na posição: 89630
+ o ID: 84333 está na posição: 89696
+ o ID: 14892 está na posição: 89762
+ o ID: 86621 está na posição: 89828
+ o ID: 20838 está na posição: 89894
+ o ID: 62711 está na posição: 89960
+ o ID: 90064 está na posição: 90026
+ o ID: 28300 está na posição: 90092
+ o ID: 34777 está na posição: 90158
+ o ID: 99792 está na posição: 90224
+ o ID: 5438 está na posição: 90290
+ o ID: 48464 está na posição: 90356
+ o ID: 15239 está na posição: 90422
+ o ID: 21908 está na posição: 90488
+ o ID: 9394 está na posição: 90554
+ o ID: 56815 está na posição: 90620
+ o ID: 29109 está na posição: 90686
+ o ID: 23296 está na posição: 90752
+ o ID: 89209 está na posição: 90818
+ o ID: 50101 está na posição: 90884
+ o ID: 29557 está na posição: 90950
+ o ID: 71684 está na posição: 91016
+ o ID: 84236 está na posição: 91082
+ o ID: 78489 está na posição: 91148
+ o ID: 74256 está na posição: 91214
+ o ID: 60573 está na posição: 91280
+ o ID: 85174 está na posição: 91346
+ o ID: 64561 está na posição: 91412
+ o ID: 49127 está na posição: 91478
+ o ID: 68432 está na posição: 91544
+ o ID: 20975 está na posição: 91610
+ o ID: 16419 está na posição: 91676
+ o ID: 88908 está na posição: 91742
+ o ID: 57033 está na posição: 91808
+ o ID: 22443 está na posição: 91874
+ o ID: 5600 está na posição: 91940
+ o ID: 62443 está na posição: 92006
+ o ID: 40904 está na posição: 92072
+ o ID: 32837 está na posição: 92138
+ o ID: 23799 está na posição: 92204
+ o ID: 77984 está na posição: 92270
+ o ID: 52017 está na posição: 92336
+ o ID: 27964 está na posição: 92402
+ o ID: 78491 está na posição: 92468
+ o ID: 41606 está na posição: 92534
+ o ID: 79565 está na posição: 92600
+ o ID: 60963 está na posição: 92666
+ o ID: 32278 está na posição: 92732
+ o ID: 90873 está na posição: 92798
+ o ID: 32907 está na posição: 92864
+ o ID: 88922 está na posição: 92930
+ o ID: 49563 está na posição: 92996
+ o ID: 14066 está na posição: 93062
+ o ID: 97045 está na posição: 93128
+ o ID: 50980 está na posição: 93194
+ o ID: 40263 está na posição: 93260
+ o ID: 94661 está na posição: 93326
+ o ID: 74093 está na posição: 93392
+ o ID: 98726 está na posição: 93458
+ o ID: 75664 está na posição: 93524
+ o ID: 17132 está na posição: 93590
+ o ID: 55251 está na posição: 93656
+ o ID: 2734 está na posição: 93722
+ o ID: 77309 está na posição: 93788
+ o ID: 88004 está na posição: 93854
+ o ID: 38607 está na posição: 93920
+ o ID: 37991 está na posição: 93986
+ o ID: 47901 está na posição: 94052
+ o ID: 24854 está na posição: 94118
+ o ID: 88848 está na posição: 94184
+ o ID: 67661 está na posição: 94250
+ o ID: 43929 está na posição: 94316
+ o ID: 3029 está na posição: 94382
+ o ID: 60486 está na posição: 94448
+ o ID: 88262 está na posição: 94514
+ o ID: 11919 está na posição: 94580
+ o ID: 26946 está na posição: 94646
+ o ID: 46822 está na posição: 94712
+ o ID: 82041 está na posição: 94778
+ o ID: 76971 está na posição: 94844
+ o ID: 27913 está na posição: 94910
+ o ID: 44213 está na posição: 94976
+ o ID: 88824 está na posição: 95042
+ o ID: 53939 está na posição: 95108
+ o ID: 64436 está na posição: 95174
+ o ID: 6207 está na posição: 95240
+ o ID: 38452 está na posição: 95306
+ o ID: 52870 está na posição: 95372
+ o ID: 16146 está na posição: 95438
+ o ID: 26713 está na posição: 95504
+ o ID: 85910 está na posição: 95570
+ o ID: 90996 está na posição: 95636
+ o ID: 76086 está na posição: 95702
+ o ID: 5574 está na posição: 95768
+ o ID: 95610 está na posição: 95834
+ o ID: 92698 está na posição: 95900
+ o ID: 23235 está na posição: 95966
+ o ID: 91351 está na posição: 96032
+ o ID: 8542 está na posição: 96098
+ o ID: 71738 está na posição: 96164
+ o ID: 72508 está na posição: 96230
+ o ID: 54935 está na posição: 96296
+ o ID: 71697 está na posição: 96362
+ o ID: 62465 está na posição: 96428
+ o ID: 18472 está na posição: 96494
+ o ID: 4872 está na posição: 96560
+ o ID: 83210 está na posição: 96626
+ o ID: 89872 está na posição: 96692
+ o ID: 54075 está na posição: 96758
+ o ID: 94539 está na posição: 96824
+ o ID: 6174 está na posição: 96890
+ o ID: 39126 está na posição: 96956
+ o ID: 28991 está na posição: 97022
+ o ID: 66367 está na posição: 97088
+ o ID: 71800 está na posição: 97154
+ o ID: 19216 está na posição: 97220
+ o ID: 22068 está na posição: 97286
+ o ID: 52331 está na posição: 97352
+ o ID: 21417 está na posição: 97418
+ o ID: 93940 está na posição: 97484
+ o ID: 58091 está na posição: 97550
+ o ID: 49932 está na posição: 97616
+ o ID: 36745 está na posição: 97682
+ o ID: 75619 está na posição: 97748
+ o ID: 55262 está na posição: 97814
+ o ID: 24966 está na posição: 97880
+ o ID: 67783 está na posição: 97946
+ o ID: 17359 está na posição: 98012
+ o ID: 2385 está na posição: 98078
+ o ID: 100002 está na posição: 98144
+ o ID: 57976 está na posição: 98210
+ o ID: 25397 está na posição: 98276
+ o ID: 27695 está na posição: 98342
+ o ID: 30845 está na posição: 98408
+ o ID: 16822 está na posição: 98474
+ o ID: 21166 está na posição: 98540
+ o ID: 29545 está na posição: 98606
+ o ID: 11547 está na posição: 98672
+ o ID: 89024 está na posição: 98738
+ o ID: 9794 está na posição: 98804
+ o ID: 35326 está na posição: 98870
+ o ID: 71237 está na posição: 98936
+O ID 1037500 não foi achado.
+O ID 1037525 não foi achado.
+O ID 1037550 não foi achado.
+O ID 1037575 não foi achado.
+O ID 1037600 não foi achado.
+O ID 1037625 não foi achado.
+O ID 1037650 não foi achado.
+O ID 1037675 não foi achado.
+O ID 1037700 não foi achado.
+O ID 1037725 não foi achado.
+O ID 1037750 não foi achado.
+O ID 1037775 não foi achado.
+O ID 1037800 não foi achado.
+O ID 1037825 não foi achado.
+O ID 1037850 não foi achado.
+O ID 1037875 não foi achado.
+O ID 1037900 não foi achado.
+O ID 1037925 não foi achado.
+O ID 1037950 não foi achado.
+O ID 1037975 não foi achado.
+O ID 1038000 não foi achado.
+O ID 1038025 não foi achado.
+O ID 1038050 não foi achado.
+O ID 1038075 não foi achado.
+O ID 1038100 não foi achado.
+O ID 1038125 não foi achado.
+O ID 1038150 não foi achado.
+O ID 1038175 não foi achado.
+O ID 1038200 não foi achado.
+O ID 1038225 não foi achado.
+O ID 1038250 não foi achado.
+O ID 1038275 não foi achado.
+O ID 1038300 não foi achado.
+O ID 1038325 não foi achado.
+O ID 1038350 não foi achado.
+O ID 1038375 não foi achado.
+O ID 1038400 não foi achado.
+O ID 1038425 não foi achado.
+O ID 1038450 não foi achado.
+O ID 1038475 não foi achado.
+O ID 1038500 não foi achado.
+O ID 1038525 não foi achado.
+O ID 1038550 não foi achado.
+O ID 1038575 não foi achado.
+O ID 1038600 não foi achado.
+O ID 1038625 não foi achado.
+O ID 1038650 não foi achado.
+O ID 1038675 não foi achado.
+O ID 1038700 não foi achado.
+O ID 1038725 não foi achado.
+O ID 1038750 não foi achado.
+O ID 1038775 não foi achado.
+O ID 1038800 não foi achado.
+O ID 1038825 não foi achado.
+O ID 1038850 não foi achado.
+O ID 1038875 não foi achado.
+O ID 1038900 não foi achado.
+O ID 1038925 não foi achado.
+O ID 1038950 não foi achado.
+O ID 1038975 não foi achado.
+O ID 1039000 não foi achado.
+O ID 1039025 não foi achado.
+O ID 1039050 não foi achado.
+O ID 1039075 não foi achado.
+O ID 1039100 não foi achado.
+O ID 1039125 não foi achado.
+O ID 1039150 não foi achado.
+O ID 1039175 não foi achado.
+O ID 1039200 não foi achado.
+O ID 1039225 não foi achado.
+O ID 1039250 não foi achado.
+O ID 1039275 não foi achado.
+O ID 1039300 não foi achado.
+O ID 1039325 não foi achado.
+O ID 1039350 não foi achado.
+O ID 1039375 não foi achado.
+O ID 1039400 não foi achado.
+O ID 1039425 não foi achado.
+O ID 1039450 não foi achado.
+O ID 1039475 não foi achado.
+O ID 1039500 não foi achado.
+O ID 1039525 não foi achado.
+O ID 1039550 não foi achado.
+O ID 1039575 não foi achado.
+O ID 1039600 não foi achado.
+O ID 1039625 não foi achado.
+O ID 1039650 não foi achado.
+O ID 1039675 não foi achado.
+O ID 1039700 não foi achado.
+O ID 1039725 não foi achado.
+O ID 1039750 não foi achado.
+O ID 1039775 não foi achado.
+O ID 1039800 não foi achado.
+O ID 1039825 não foi achado.
+O ID 1039850 não foi achado.
+O ID 1039875 não foi achado.
+O ID 1039900 não foi achado.
+O ID 1039925 não foi achado.
+O ID 1039950 não foi achado.
+O ID 1039975 não foi achado.
+O ID 1040000 não foi achado.
+O ID 1040025 não foi achado.
+O ID 1040050 não foi achado.
+O ID 1040075 não foi achado.
+O ID 1040100 não foi achado.
+O ID 1040125 não foi achado.
+O ID 1040150 não foi achado.
+O ID 1040175 não foi achado.
+O ID 1040200 não foi achado.
+O ID 1040225 não foi achado.
+O ID 1040250 não foi achado.
+O ID 1040275 não foi achado.
+O ID 1040300 não foi achado.
+O ID 1040325 não foi achado.
+O ID 1040350 não foi achado.
+O ID 1040375 não foi achado.
+O ID 1040400 não foi achado.
+O ID 1040425 não foi achado.
+O ID 1040450 não foi achado.
+O ID 1040475 não foi achado.
+O ID 1040500 não foi achado.
+O ID 1040525 não foi achado.
+O ID 1040550 não foi achado.
+O ID 1040575 não foi achado.
+O ID 1040600 não foi achado.
+O ID 1040625 não foi achado.
+O ID 1040650 não foi achado.
+O ID 1040675 não foi achado.
+O ID 1040700 não foi achado.
+O ID 1040725 não foi achado.
+O ID 1040750 não foi achado.
+O ID 1040775 não foi achado.
+O ID 1040800 não foi achado.
+O ID 1040825 não foi achado.
+O ID 1040850 não foi achado.
+O ID 1040875 não foi achado.
+O ID 1040900 não foi achado.
+O ID 1040925 não foi achado.
+O ID 1040950 não foi achado.
+O ID 1040975 não foi achado.
+O ID 1041000 não foi achado.
+O ID 1041025 não foi achado.
+O ID 1041050 não foi achado.
+O ID 1041075 não foi achado.
+O ID 1041100 não foi achado.
+O ID 1041125 não foi achado.
+O ID 1041150 não foi achado.
+O ID 1041175 não foi achado.
+O ID 1041200 não foi achado.
+O ID 1041225 não foi achado.
+O ID 1041250 não foi achado.
+O ID 1041275 não foi achado.
+O ID 1041300 não foi achado.
+O ID 1041325 não foi achado.
+O ID 1041350 não foi achado.
+O ID 1041375 não foi achado.
+O ID 1041400 não foi achado.
+O ID 1041425 não foi achado.
+O ID 1041450 não foi achado.
+O ID 1041475 não foi achado.
+O ID 1041500 não foi achado.
+O ID 1041525 não foi achado.
+O ID 1041550 não foi achado.
+O ID 1041575 não foi achado.
+O ID 1041600 não foi achado.
+O ID 1041625 não foi achado.
+O ID 1041650 não foi achado.
+O ID 1041675 não foi achado.
+O ID 1041700 não foi achado.
+O ID 1041725 não foi achado.
+O ID 1041750 não foi achado.
+O ID 1041775 não foi achado.
+O ID 1041800 não foi achado.
+O ID 1041825 não foi achado.
+O ID 1041850 não foi achado.
+O ID 1041875 não foi achado.
+O ID 1041900 não foi achado.
+O ID 1041925 não foi achado.
+O ID 1041950 não foi achado.
+O ID 1041975 não foi achado.
+O ID 1042000 não foi achado.
+O ID 1042025 não foi achado.
+O ID 1042050 não foi achado.
+O ID 1042075 não foi achado.
+O ID 1042100 não foi achado.
+O ID 1042125 não foi achado.
+O ID 1042150 não foi achado.
+O ID 1042175 não foi achado.
+O ID 1042200 não foi achado.
+O ID 1042225 não foi achado.
+O ID 1042250 não foi achado.
+O ID 1042275 não foi achado.
+O ID 1042300 não foi achado.
+O ID 1042325 não foi achado.
+O ID 1042350 não foi achado.
+O ID 1042375 não foi achado.
+O ID 1042400 não foi achado.
+O ID 1042425 não foi achado.
+O ID 1042450 não foi achado.
+O ID 1042475 não foi achado.
+O ID 1042500 não foi achado.
+O ID 1042525 não foi achado.
+O ID 1042550 não foi achado.
+O ID 1042575 não foi achado.
+O ID 1042600 não foi achado.
+O ID 1042625 não foi achado.
+O ID 1042650 não foi achado.
+O ID 1042675 não foi achado.
+O ID 1042700 não foi achado.
+O ID 1042725 não foi achado.
+O ID 1042750 não foi achado.
+O ID 1042775 não foi achado.
+O ID 1042800 não foi achado.
+O ID 1042825 não foi achado.
+O ID 1042850 não foi achado.
+O ID 1042875 não foi achado.
+O ID 1042900 não foi achado.
+O ID 1042925 não foi achado.
+O ID 1042950 não foi achado.
+O ID 1042975 não foi achado.
+O ID 1043000 não foi achado.
+O ID 1043025 não foi achado.
+O ID 1043050 não foi achado.
+O ID 1043075 não foi achado.
+O ID 1043100 não foi achado.
+O ID 1043125 não foi achado.
+O ID 1043150 não foi achado.
+O ID 1043175 não foi achado.
+O ID 1043200 não foi achado.
+O ID 1043225 não foi achado.
+O ID 1043250 não foi achado.
+O ID 1043275 não foi achado.
+O ID 1043300 não foi achado.
+O ID 1043325 não foi achado.
+O ID 1043350 não foi achado.
+O ID 1043375 não foi achado.
+O ID 1043400 não foi achado.
+O ID 1043425 não foi achado.
+O ID 1043450 não foi achado.
+O ID 1043475 não foi achado.
+O ID 1043500 não foi achado.
+O ID 1043525 não foi achado.
+O ID 1043550 não foi achado.
+O ID 1043575 não foi achado.
+O ID 1043600 não foi achado.
+O ID 1043625 não foi achado.
+O ID 1043650 não foi achado.
+O ID 1043675 não foi achado.
+O ID 1043700 não foi achado.
+O ID 1043725 não foi achado.
+O ID 1043750 não foi achado.
+O ID 1043775 não foi achado.
+O ID 1043800 não foi achado.
+O ID 1043825 não foi achado.
+O ID 1043850 não foi achado.
+O ID 1043875 não foi achado.
+O ID 1043900 não foi achado.
+O ID 1043925 não foi achado.
+O ID 1043950 não foi achado.
+O ID 1043975 não foi achado.
+O ID 1044000 não foi achado.
+O ID 1044025 não foi achado.
+O ID 1044050 não foi achado.
+O ID 1044075 não foi achado.
+O ID 1044100 não foi achado.
+O ID 1044125 não foi achado.
+O ID 1044150 não foi achado.
+O ID 1044175 não foi achado.
+O ID 1044200 não foi achado.
+O ID 1044225 não foi achado.
+O ID 1044250 não foi achado.
+O ID 1044275 não foi achado.
+O ID 1044300 não foi achado.
+O ID 1044325 não foi achado.
+O ID 1044350 não foi achado.
+O ID 1044375 não foi achado.
+O ID 1044400 não foi achado.
+O ID 1044425 não foi achado.
+O ID 1044450 não foi achado.
+O ID 1044475 não foi achado.
+O ID 1044500 não foi achado.
+O ID 1044525 não foi achado.
+O ID 1044550 não foi achado.
+O ID 1044575 não foi achado.
+O ID 1044600 não foi achado.
+O ID 1044625 não foi achado.
+O ID 1044650 não foi achado.
+O ID 1044675 não foi achado.
+O ID 1044700 não foi achado.
+O ID 1044725 não foi achado.
+O ID 1044750 não foi achado.
+O ID 1044775 não foi achado.
+O ID 1044800 não foi achado.
+O ID 1044825 não foi achado.
+O ID 1044850 não foi achado.
+O ID 1044875 não foi achado.
+O ID 1044900 não foi achado.
+O ID 1044925 não foi achado.
+O ID 1044950 não foi achado.
+O ID 1044975 não foi achado.
+O ID 1045000 não foi achado.
+O ID 1045025 não foi achado.
+O ID 1045050 não foi achado.
+O ID 1045075 não foi achado.
+O ID 1045100 não foi achado.
+O ID 1045125 não foi achado.
+O ID 1045150 não foi achado.
+O ID 1045175 não foi achado.
+O ID 1045200 não foi achado.
+O ID 1045225 não foi achado.
+O ID 1045250 não foi achado.
+O ID 1045275 não foi achado.
+O ID 1045300 não foi achado.
+O ID 1045325 não foi achado.
+O ID 1045350 não foi achado.
+O ID 1045375 não foi achado.
+O ID 1045400 não foi achado.
+O ID 1045425 não foi achado.
+O ID 1045450 não foi achado.
+O ID 1045475 não foi achado.
+O ID 1045500 não foi achado.
+O ID 1045525 não foi achado.
+O ID 1045550 não foi achado.
+O ID 1045575 não foi achado.
+O ID 1045600 não foi achado.
+O ID 1045625 não foi achado.
+O ID 1045650 não foi achado.
+O ID 1045675 não foi achado.
+O ID 1045700 não foi achado.
+O ID 1045725 não foi achado.
+O ID 1045750 não foi achado.
+O ID 1045775 não foi achado.
+O ID 1045800 não foi achado.
+O ID 1045825 não foi achado.
+O ID 1045850 não foi achado.
+O ID 1045875 não foi achado.
+O ID 1045900 não foi achado.
+O ID 1045925 não foi achado.
+O ID 1045950 não foi achado.
+O ID 1045975 não foi achado.
+O ID 1046000 não foi achado.
+O ID 1046025 não foi achado.
+O ID 1046050 não foi achado.
+O ID 1046075 não foi achado.
+O ID 1046100 não foi achado.
+O ID 1046125 não foi achado.
+O ID 1046150 não foi achado.
+O ID 1046175 não foi achado.
+O ID 1046200 não foi achado.
+O ID 1046225 não foi achado.
+O ID 1046250 não foi achado.
+O ID 1046275 não foi achado.
+O ID 1046300 não foi achado.
+O ID 1046325 não foi achado.
+O ID 1046350 não foi achado.
+O ID 1046375 não foi achado.
+O ID 1046400 não foi achado.
+O ID 1046425 não foi achado.
+O ID 1046450 não foi achado.
+O ID 1046475 não foi achado.
+O ID 1046500 não foi achado.
+O ID 1046525 não foi achado.
+O ID 1046550 não foi achado.
+O ID 1046575 não foi achado.
+O ID 1046600 não foi achado.
+O ID 1046625 não foi achado.
+O ID 1046650 não foi achado.
+O ID 1046675 não foi achado.
+O ID 1046700 não foi achado.
+O ID 1046725 não foi achado.
+O ID 1046750 não foi achado.
+O ID 1046775 não foi achado.
+O ID 1046800 não foi achado.
+O ID 1046825 não foi achado.
+O ID 1046850 não foi achado.
+O ID 1046875 não foi achado.
+O ID 1046900 não foi achado.
+O ID 1046925 não foi achado.
+O ID 1046950 não foi achado.
+O ID 1046975 não foi achado.
+O ID 1047000 não foi achado.
+O ID 1047025 não foi achado.
+O ID 1047050 não foi achado.
+O ID 1047075 não foi achado.
+O ID 1047100 não foi achado.
+O ID 1047125 não foi achado.
+O ID 1047150 não foi achado.
+O ID 1047175 não foi achado.
+O ID 1047200 não foi achado.
+O ID 1047225 não foi achado.
+O ID 1047250 não foi achado.
+O ID 1047275 não foi achado.
+O ID 1047300 não foi achado.
+O ID 1047325 não foi achado.
+O ID 1047350 não foi achado.
+O ID 1047375 não foi achado.
+O ID 1047400 não foi achado.
+O ID 1047425 não foi achado.
+O ID 1047450 não foi achado.
+O ID 1047475 não foi achado.
+O ID 1047500 não foi achado.
+O ID 1047525 não foi achado.
+O ID 1047550 não foi achado.
+O ID 1047575 não foi achado.
+O ID 1047600 não foi achado.
+O ID 1047625 não foi achado.
+O ID 1047650 não foi achado.
+O ID 1047675 não foi achado.
+O ID 1047700 não foi achado.
+O ID 1047725 não foi achado.
+O ID 1047750 não foi achado.
+O ID 1047775 não foi achado.
+O ID 1047800 não foi achado.
+O ID 1047825 não foi achado.
+O ID 1047850 não foi achado.
+O ID 1047875 não foi achado.
+O ID 1047900 não foi achado.
+O ID 1047925 não foi achado.
+O ID 1047950 não foi achado.
+O ID 1047975 não foi achado.
+O ID 1048000 não foi achado.
+O ID 1048025 não foi achado.
+O ID 1048050 não foi achado.
+O ID 1048075 não foi achado.
+O ID 1048100 não foi achado.
+O ID 1048125 não foi achado.
+O ID 1048150 não foi achado.
+O ID 1048175 não foi achado.
+O ID 1048200 não foi achado.
+O ID 1048225 não foi achado.
+O ID 1048250 não foi achado.
+O ID 1048275 não foi achado.
+O ID 1048300 não foi achado.
+O ID 1048325 não foi achado.
+O ID 1048350 não foi achado.
+O ID 1048375 não foi achado.
+O ID 1048400 não foi achado.
+O ID 1048425 não foi achado.
+O ID 1048450 não foi achado.
+O ID 1048475 não foi achado.
+O ID 1048500 não foi achado.
+O ID 1048525 não foi achado.
+O ID 1048550 não foi achado.
+O ID 1048575 não foi achado.
+O ID 1048600 não foi achado.
+O ID 1048625 não foi achado.
+O ID 1048650 não foi achado.
+O ID 1048675 não foi achado.
+O ID 1048700 não foi achado.
+O ID 1048725 não foi achado.
+O ID 1048750 não foi achado.
+O ID 1048775 não foi achado.
+O ID 1048800 não foi achado.
+O ID 1048825 não foi achado.
+O ID 1048850 não foi achado.
+O ID 1048875 não foi achado.
+O ID 1048900 não foi achado.
+O ID 1048925 não foi achado.
+O ID 1048950 não foi achado.
+O ID 1048975 não foi achado.
+O ID 1049000 não foi achado.
+O ID 1049025 não foi achado.
+O ID 1049050 não foi achado.
+O ID 1049075 não foi achado.
+O ID 1049100 não foi achado.
+O ID 1049125 não foi achado.
+O ID 1049150 não foi achado.
+O ID 1049175 não foi achado.
+O ID 1049200 não foi achado.
+O ID 1049225 não foi achado.
+O ID 1049250 não foi achado.
+O ID 1049275 não foi achado.
+O ID 1049300 não foi achado.
+O ID 1049325 não foi achado.
+O ID 1049350 não foi achado.
+O ID 1049375 não foi achado.
+O ID 1049400 não foi achado.
+O ID 1049425 não foi achado.
+O ID 1049450 não foi achado.
+O ID 1049475 não foi achado.
+O ID 1049500 não foi achado.
+O ID 1049525 não foi achado.
+O ID 1049550 não foi achado.
+O ID 1049575 não foi achado.
+O ID 1049600 não foi achado.
+O ID 1049625 não foi achado.
+O ID 1049650 não foi achado.
+O ID 1049675 não foi achado.
+O ID 1049700 não foi achado.
+O ID 1049725 não foi achado.
+O ID 1049750 não foi achado.
+O ID 1049775 não foi achado.
+O ID 1049800 não foi achado.
+O ID 1049825 não foi achado.
+O ID 1049850 não foi achado.
+O ID 1049875 não foi achado.
+O ID 1049900 não foi achado.
+O ID 1049925 não foi achado.
+O ID 1049950 não foi achado.
+O ID 1049975 não foi achado.
