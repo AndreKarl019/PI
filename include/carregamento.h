@@ -8,7 +8,7 @@ int id;
 char nome[51];
 char categoria[31];
 float valor;
-} Produto;
+} Produto; // struct do vetor do csv
 
 
 Produto *organizar_produtos(FILE *arquivo, int linhas); //função para organizar o .csv em um vetor da struct Produto
