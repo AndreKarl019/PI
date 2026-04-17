@@ -3,6 +3,13 @@
 Projeto acadêmico desenvolvido por estudantes de Ciência da Computação com o intuito de desenvolver uma base experimental para análise de desempenho de algoritmos de busca utilizando datasets.
 O foco da fase atual é estabelecer uma baseline de referência comparativa para ser utilizada na fase 2.
 
+## Alunos
+
+| Nome | Matrícula |
+|----------|----------|
+| André Lopes Solla Karl  |  2422130012  |
+| Emille Souza Brault | 2422130015 |
+| João Pedro Oliveira Braga | 2422130019  |
 
 ## Funcionamento
 * Ler o CSV inserido em data/dataset.csv
@@ -80,6 +87,8 @@ contém todos os testes dos códigos.
 
 ## main.c
 código principal.
+
+
 
 *Link do Github*
 [Link](https://github.com/AndreKarl019/PI)
