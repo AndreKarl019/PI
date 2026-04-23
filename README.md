@@ -3,6 +3,13 @@
 Projeto acadêmico desenvolvido por estudantes de Ciência da Computação com o intuito de desenvolver uma base experimental para análise de desempenho de algoritmos de busca utilizando datasets.
 O foco da fase atual é estabelecer uma baseline de referência comparativa para ser utilizada na fase 2.
 
+## Alunos
+
+| Nome | Matrícula |
+|----------|----------|
+| André Lopes Solla Karl  |  2422130012  |
+| Emille Souza Brault | 2422130015 |
+| João Pedro Oliveira Braga | 2422130019  |
 
 ## Funcionamento
 * Ler o CSV inserido em data/dataset.csv
@@ -37,7 +44,7 @@ Esse comando vai clonar o projeto para sua máquina.
 | data  |  dataset  |
 | include | arquivos de cabeçalho do projeto |
 | src | código fonte  |
-
+| testes | teste de função das headers |
 
 ## data/
 contém o dataset utilizado no programa.
@@ -50,14 +57,36 @@ contém o dataset utilizado no programa.
 ## include/
 contém as headers a serem utilizadas no programa.
 
+| Arquivos | Descrição |
+|----------|----------|
+| busca.h |  header com as funções de busca   |
+| carregamento.h |  header com as funções de carregamento  |
+| temporizador.h |  header com as funções de temporização  |
+| validacao.h |  header com as funções de validação  |
+
 ## src/
-contém todos os arquivos .c
+contém todos os arquivos .c com exceção da main.
 
 | Arquivos | Descrição |
 |----------|----------|
-| main.c  |  código fonte  |
+| busca.c  |  código de busca sequencial |
+| carregamento.c  |  código de carregamento  |
+| temporizador.c  |  código de medição de tempo |
+| validacao.c  |  código da validação de arquivos  |
 
+## testes/
+contém todos os testes dos códigos.
 
+| Arquivos | Descrição |
+|----------|----------|
+| teste_busca.c  | teste do código de busca sequencial |
+| teste_carregamento.c  | teste do código de carregamento  |
+| teste_temporizador.c  |  teste do código de medição de tempo  |
+| teste_validacao.c  |  teste do código de validação de arquivos  |
+| teste_salvamento.c  |  teste do código de salvamento de resultados  |
+
+## main.c
+código principal.
 
 
 
