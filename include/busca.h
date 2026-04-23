@@ -5,7 +5,7 @@
 #include "../include/carregamento.h"
 
 
-void Busca(Produto *vetor, int *id, int linhas, FILE *resultado);
+int Busca(Produto *vetor, int id, int linhas);
 
 int *montar_vetores(Produto *vetor);
 
