@@ -19,6 +19,7 @@ int main(){
     FILE *resultado = fopen("resultado.txt", "w");  // crie/abre em modo de append o .txt para os resultados
 
     Produto *produtos = organizar_produtos(dataset, 100003);  // roda a função para formar o vetor a partir do csv
+    validar_arquivo(produtos, 100003); //validação dos elementos do vetor
 
     
     int *ids = montar_vetores(produtos);
