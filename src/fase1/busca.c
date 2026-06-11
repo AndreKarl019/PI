@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <locale.h>
 #include <windows.h>
-#include "../include/busca.h"
-#include "../include/carregamento.h"
+#include "../../include/fase1/busca.h"
+#include "../../include/fase1/carregamento.h"
 
 int *montar_vetores(Produto *vetor){
     int *ids = (int*)malloc(sizeof(int)*2000);

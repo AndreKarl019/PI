@@ -3,10 +3,10 @@
 #include <string.h>
 #include <locale.h>
 #include <windows.h>
-#include "include/carregamento.h"
-#include "include/temporizador.h"
-#include "include/busca.h"
-#include "include/validacao.h"
+#include "include/fase1/carregamento.h"
+#include "include/global/temporizador.h"
+#include "include/fase1/busca.h"
+#include "include/fase1/validacao.h"
 
 //Se rerrodar o codigo deleta o resultado.txt
 

@@ -2,7 +2,7 @@
 #define BUSCA_H
 #include <locale.h>
 #include <windows.h>
-#include "../include/carregamento.h"
+#include "carregamento.h"
 
 
 int Busca(Produto *vetor, int id, int linhas);

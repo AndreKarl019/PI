@@ -3,7 +3,7 @@
 #include <string.h>
 #include <locale.h>
 #include <windows.h>
-#include "../include/validacao.h"
+#include "../../include/fase1/validacao.h"
 
 void validar_arquivo(Produto *vetor, int linhas){
     SetConsoleOutputCP(CP_UTF8);  // para o console imprimir os nomes corretamente 

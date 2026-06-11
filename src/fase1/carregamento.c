@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../include/carregamento.h"
+#include "../../include/fase1/carregamento.h"
 
 Produto *organizar_produtos(FILE *arquivo, int linhas){
     Produto *saida = (Produto *)malloc(linhas*sizeof(Produto));
