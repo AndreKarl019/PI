@@ -3,10 +3,10 @@
 #include <string.h>
 #include <locale.h>
 #include <windows.h>
-#include "include/fase1/carregamento.h"
+#include "include/fase1/carregamento_vetor.h"
 #include "include/global/temporizador.h"
-#include "include/fase1/busca.h"
-#include "include/fase1/validacao.h"
+#include "include/fase1/busca_vetor.h"
+#include "include/fase1/validacao_vetor.h"
 
 //Se rerrodar o codigo deleta o resultado.txt
 
@@ -18,8 +18,8 @@ int main(){
     FILE *dataset = fopen("data/dataset1.csv", "r");  // carrega o csv em modo de leitura
     FILE *resultado = fopen("resultado.txt", "w");  // crie/abre em modo de append o .txt para os resultados
 
-    Produto *produtos = organizar_produtos(dataset, 100003);  // roda a função para formar o vetor a partir do csv
-    validar_arquivo(produtos, 100003); //validação dos elementos do vetor
+    Produto_vetor *produtos = organizar_produtos(dataset, 100003);  // roda a função para formar o vetor a partir do csv
+    validar_vetor(produtos, 100003); //validação dos elementos do vetor
 
     
     int *ids = montar_vetores(produtos);
@@ -31,7 +31,7 @@ int main(){
 
     for(int i = 0; i<500; i++){
         iniciar_timer(); // inicia o temporizador 
-        achou = Busca(produtos, *(ids+i), 100003);
+        achou = Busca_vetor(produtos, *(ids+i), 100003);
         y = finalizar_timer(); //finaliza o temporizador e retorna o tempo gasto
         fprintf(resultado, "Tempo gasto: %.9f, Posição: %i\n", y, achou);
         tempo_segmento += y;
@@ -47,7 +47,7 @@ int main(){
 
     for(int i = 500; i<1000; i++){
         iniciar_timer(); // inicia o temporizador 
-        achou = Busca(produtos, *(ids+i), 100003);
+        achou = Busca_vetor(produtos, *(ids+i), 100003);
         y = finalizar_timer(); //finaliza o temporizador e retorna o tempo gasto
         fprintf(resultado, "Tempo gasto: %.9f, Posição: %i\n", y, achou);
         tempo_segmento += y;
@@ -63,7 +63,7 @@ int main(){
 
     for(int i = 1000; i<1500; i++){
         iniciar_timer(); 
-        achou = Busca(produtos, *(ids+i), 100003);
+        achou = Busca_vetor(produtos, *(ids+i), 100003);
         y = finalizar_timer();
         fprintf(resultado, "Tempo gasto: %.9f, Posição: %i\n", y, achou);
         tempo_segmento += y;
@@ -79,7 +79,7 @@ int main(){
 
     for(int i = 1500; i<2000; i++){
         iniciar_timer(); 
-        achou = Busca(produtos, *(ids+i), 100003);
+        achou = Busca_vetor(produtos, *(ids+i), 100003);
         y = finalizar_timer();
         fprintf(resultado, "Tempo gasto: %.6f, Posição: %i\n", y, achou);
         tempo_segmento += y;

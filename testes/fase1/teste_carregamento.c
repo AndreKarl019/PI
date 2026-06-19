@@ -3,7 +3,7 @@
 #include <string.h>
 #include <locale.h>
 #include <windows.h>
-#include "../include/carregamento.h"
+#include "../../include/fase1/carregamento_vetor.h"
 
 int main(){
     SetConsoleOutputCP(CP_UTF8);  // para o console imprimir os nomes corretamente remover depois 
@@ -11,7 +11,7 @@ int main(){
     
     FILE *dataset = fopen("../data/dataset1.csv", "r");  // carrega o csv em modo de leitura
 
-    Produto *produtos = organizar_produtos(dataset, 100003);  // roda a função para formar o vetor a partir do csv
+    Produto_vetor *produtos = organizar_produtos(dataset, 100003);  // roda a função para formar o vetor a partir do csv
 
 
     // teste para ver se o vetor carregou corretamente imprimindo elementos do final e inicio do vetor
