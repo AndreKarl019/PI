@@ -29,6 +29,7 @@ void montar_tabela(Tabela *tabela, FILE *arquivo){
     No *aux = (No*)malloc(sizeof(No));
     aux->proximo = NULL;
     int c;
+    int k = 0;
     
     while((c = fgetc(arquivo))!='\n'&&c!=EOF);
 
@@ -47,10 +48,12 @@ void montar_tabela(Tabela *tabela, FILE *arquivo){
                 tabela->no[hash] = novo; 
             }else{
                 colisao(tabela,novo,hash);
+                k++;
             }
         };
     
         free(aux);
+        printf("\nQuantidade de colisões = %d\n", k);
 }
 
 
