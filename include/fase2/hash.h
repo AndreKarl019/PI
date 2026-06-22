@@ -22,5 +22,6 @@ typedef struct Tabela{
 Tabela * criar_tabela(); // cria a tabela
 void colisao(Tabela *tabela, No *no, int hash);   //trata as colisões
 void montar_tabela(Tabela *tabela, FILE *arquivo); // preenche a tabela com todos os dados do arquivo no formato produto
+No * busca_hash(int id, Tabela *tabela); // busca um ID e retorna o No desse ID.
 
 #endif

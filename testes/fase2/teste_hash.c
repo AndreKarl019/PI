@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "../../include/fase2/hash.h"
 
 int main(){
@@ -16,13 +17,18 @@ int main(){
     printf("3. Tabela criada na memoria\n");
     montar_tabela(t,dataset);
     printf("4. Saiu da funcao montar_tabela\n");
-    for(int i = 0; i<100003;i++){
-        if(t->no[i]!=NULL){
-            No *aux = t->no[i];
-            while(aux!=NULL){
-                printf("Index: %i / Produto: %s / Categoria: %s / Valor: %f\n", i, aux->produto.nome, aux->produto.categoria, aux->produto.valor);
-                aux = aux->proximo;
-                }
-        }
+    
+    No *achei = malloc(sizeof(No));
+    achei = busca_hash(89567,t);
+
+    printf("Nome: %s, Categoria: %s, Valor: %.2f, ID: %i\n", achei->produto.nome, achei->produto.categoria, achei->produto.valor, achei->produto.id);
+
+    achei = busca_hash(1000000,t);
+    if(achei == NULL){
+        printf("ID nao encontrado\n");
+    }else{
+        printf("Nome: %s, Categoria: %s, Valor: %.2f, ID: %i\n", achei->produto.nome, achei->produto.categoria, achei->produto.valor, achei->produto.id);
     }
+
+    return 0;
 }
