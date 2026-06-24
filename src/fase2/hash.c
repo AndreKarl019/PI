@@ -53,7 +53,26 @@ void montar_tabela(Tabela *tabela, FILE *arquivo){
         };
     
         free(aux);
-        printf("\nQuantidade de colisões = %d\n", k);
+        printf("\nQuantidade de colisoes = %d\n", k);
 }
 
 
+No * busca_hash(int id, Tabela *tabela){
+    int hash = calc_hash(id);
+
+    if(tabela->no[hash] == NULL){
+        return NULL;
+    }
+
+    No *novo = tabela->no[hash];
+
+    while((id != novo->produto.id) && (novo->proximo != NULL)){
+        novo = novo->proximo;
+    }
+
+    if(novo->produto.id != id){
+        return NULL;
+    }
+
+    return novo;
+}
