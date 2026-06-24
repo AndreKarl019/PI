@@ -1,0 +1,4028 @@
+Tempo gasto para a montagem em vetor: 0.773538880
+
+Tempo gasto para a montagem em Tabela Hash: 0.667611392
+
+
+            Primeiras 500 pesquisas
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000014800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000010800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+
+ O tempo gasto para busca na Primeira parte foi: 0.000269600s, e o tempo medio por busca foi: 0.000000539s
+
+            Pesquisas 500 - 1000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000014100
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000032900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000010200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000012300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000029900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+
+ O tempo gasto para busca na Segunda parte foi: 0.000390700s, e o tempo medio por busca foi: 0.000000781s
+
+            Pesquisas 1000 - 1500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000010900
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000011900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000035900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000001600
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001800
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000011200
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000030600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000002000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000026500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+
+ O tempo gasto para busca na Terceira parte foi: 0.000496700s, e o tempo medio por busca foi: 0.000000993s
+
+            Pesquisas Inexistentes
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000100
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000011600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000002100
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000100
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001900
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000015100
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000027400
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000074100
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000001300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000100
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000100
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000100
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000100
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000600
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001000
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000001100
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000900
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000800
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000400
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000001200
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000500
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000700
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000300
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000200
+
+Tempo gasto: 0.000000100
+
+
+ O tempo gasto para busca na quarta parte foi: 0.000414400s, e o tempo medio por busca foi: 0.000000829s
+
+ O tempo total gasto foi: 0.001571400s, e o tempo medio por busca foi: 0.000000786s
+
+Quantidade de colisoes = 36154

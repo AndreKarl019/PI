@@ -53,7 +53,7 @@ void montar_tabela(Tabela *tabela, FILE *arquivo){
         };
     
         free(aux);
-        printf("\nQuantidade de colisoes = %d\n", k);
+        printf("\nQuantidade de colisoes = %i\n", k);
 }
 
 

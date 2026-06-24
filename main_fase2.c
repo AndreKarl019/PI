@@ -4,6 +4,7 @@
 #include <windows.h>
 #include <locale.h>
 #include "include/fase1/carregamento_vetor.h"
+#include "include/fase1/busca_vetor.h"
 #include "include/global/temporizador.h"
 #include "include/fase2/hash.h"
 
@@ -14,18 +15,28 @@ int main(){
     SetConsoleOutputCP (CP_UTF8);
 
     FILE *dataset = fopen("data/dataset1.csv", "r"); 
-    FILE *resultado = fopen("resultado2.txt", "w");
+    FILE *resultado = fopen("resultado2.txt", "w"); //arquivo aonde está imprimido os resultados da pesquisa
+
 
     iniciar_timer();
-    Produto_vetor *vetorprod = organizar_produtos(dataset, 100003);
+    Produto_vetor *vetorprod = organizar_produtos(dataset, 100003); //montagem em vetor conforme fase 1
     y = finalizar_timer();
 
     fprintf(resultado, "Tempo gasto para a montagem em vetor: %.9f\n\n",y);
+    rewind(dataset);//rewind do dataset para poder ser usado novamente
 
-    int *ids = montar_vetores(vetorprod);
+    int *ids = montar_vetores(vetorprod); //criação de um vetor com quais IDs serão pesquisados (mesmo metodo usado na fase 1)
+    free(vetorprod); //free no vetorprod para que interfira menos com os resultados da fase 2
+
 
     Tabela *tabela_hash = criar_tabela();
-    montar_tabela(tabela_hash, dataset);
+
+    iniciar_timer();
+    montar_tabela(tabela_hash, dataset); // carrega o dataset em uma tabela hash
+    y = finalizar_timer();
+
+    fprintf(resultado, "Tempo gasto para a montagem em Tabela Hash: %.9f\n\n",y);
+
     
     
 
@@ -40,7 +51,7 @@ int main(){
         tempo_total += y;
     }
 
-    fprintf(resultado, "\n O tempo gasto para busca na primeira parte foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_segmento, tempo_segmento/500);
+    fprintf(resultado, "\n O tempo gasto para busca na Primeira parte foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_segmento, tempo_segmento/500);
     tempo_segmento = 0;
 
     fprintf(resultado, "\n            Pesquisas 500 - 1000\n\n");
@@ -54,7 +65,7 @@ int main(){
         tempo_total += y;
     }
 
-    fprintf(resultado, "\n O tempo gasto para busca na primeira parte foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_segmento, tempo_segmento/500);
+    fprintf(resultado, "\n O tempo gasto para busca na Segunda parte foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_segmento, tempo_segmento/500);
     tempo_segmento = 0;
 
     fprintf(resultado, "\n            Pesquisas 1000 - 1500\n\n");
@@ -68,7 +79,7 @@ int main(){
         tempo_total += y;
     }
 
-    fprintf(resultado, "\n O tempo gasto para busca na primeira parte foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_segmento, tempo_segmento/500);
+    fprintf(resultado, "\n O tempo gasto para busca na Terceira parte foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_segmento, tempo_segmento/500);
     tempo_segmento = 0;
 
     fprintf(resultado, "\n            Pesquisas Inexistentes\n\n");
@@ -82,7 +93,8 @@ int main(){
         tempo_total += y;
     }
 
-    fprintf(resultado, "\n O tempo gasto para busca na primeira parte foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_segmento, tempo_segmento/500);
-    tempo_segmento = 0;
-
+    fprintf(resultado, "\n O tempo gasto para busca na quarta parte foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_segmento, tempo_segmento/500);
+    fprintf(resultado, "\n O tempo total gasto foi: %.9fs, e o tempo medio por busca foi: %.9fs\n", tempo_total, tempo_total/2000);
+  
+    return 0;
 }
