@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../include/carregamento.h"
+#include "../../include/fase1/carregamento_vetor.h"
 
-Produto *organizar_produtos(FILE *arquivo, int linhas){
-    Produto *saida = (Produto *)malloc(linhas*sizeof(Produto));
+Produto_vetor *organizar_produtos(FILE *arquivo, int linhas){
+    Produto_vetor *saida = (Produto_vetor *)malloc(linhas*sizeof(Produto_vetor));
     int c;
     
     

@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<time.h>
-#include"../include/temporizador.h"
+#include"../../include/global/temporizador.h"
 
 static struct timespec inicio, fim;
 

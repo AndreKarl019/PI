@@ -3,9 +3,9 @@
 #include <string.h>
 #include <locale.h>
 #include <windows.h>
-#include "../include/validacao.h"
+#include "../../include/fase1/validacao_vetor.h"
 
-void validar_arquivo(Produto *vetor, int linhas){
+void validar_vetor(Produto_vetor *vetor, int linhas){
     SetConsoleOutputCP(CP_UTF8);  // para o console imprimir os nomes corretamente 
     for(int i = 0; i<linhas ;i++){
         if ((vetor + i) -> id < 0){

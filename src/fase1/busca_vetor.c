@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <locale.h>
 #include <windows.h>
-#include "../include/busca.h"
-#include "../include/carregamento.h"
+#include "../../include/fase1/busca_vetor.h"
+#include "../../include/fase1/carregamento_vetor.h"
 
-int *montar_vetores(Produto *vetor){
+int *montar_vetores(Produto_vetor *vetor){
     int *ids = (int*)malloc(sizeof(int)*2000);
 
     for(int i = 0; i < 2000; i++){
@@ -18,7 +18,7 @@ int *montar_vetores(Produto *vetor){
     return ids;
 }
 
-int Busca(Produto *vetor, int id, int linhas){   
+int Busca_vetor(Produto_vetor *vetor, int id, int linhas){   
     for(int i = 0; i < linhas; i++){
         if((vetor + i)->id == id){
             return i;
